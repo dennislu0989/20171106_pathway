@@ -1,0 +1,116 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Reactome-FIs (2017/11/05 10:44:10 下午, TST)",
+    "__Annotations" : [ "" ],
+    "name" : "Reactome-FIs (2017/11/05 10:44:10 下午, TST)",
+    "SUID" : 917,
+    "source_original" : "Reactome-FIs",
+    "created_by" : "PSICQUIC Web Service",
+    "selected" : false
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "929",
+        "shared_name" : "P11586",
+        "uniprotkb_accession" : "P11586",
+        "Taxonomy_Name" : "",
+        "name" : "P11586",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 929,
+        "Human_Readable_Label" : "MTHFD1",
+        "uniprot" : [ "MTHFD1", "P11586" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -71.68194580078125,
+        "y" : -81.1605733235677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "928",
+        "shared_name" : "P13995",
+        "uniprotkb_accession" : "P13995",
+        "Taxonomy_Name" : "",
+        "name" : "P13995",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 928,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "MTHFD2", "P13995" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1.7022552490234375,
+        "y" : 1.8727518717447964
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "927",
+        "shared_name" : "Q6UB35",
+        "uniprotkb_accession" : "Q6UB35",
+        "Taxonomy_Name" : "",
+        "name" : "Q6UB35",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 927,
+        "Human_Readable_Label" : "MTHFD1L",
+        "uniprot" : [ "MTHFD1L", "Q6UB35" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 73.38420104980469,
+        "y" : 79.28782145182292
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "931",
+        "source" : "929",
+        "target" : "928",
+        "shared_interaction" : "",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "20482850" ],
+        "Detection_Method" : [ "experimental knowledge based" ],
+        "shared_name" : "P11586 (null) P13995",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P11586 (null) P13995",
+        "interaction" : "",
+        "Detection_Method_ID" : [ "MI:0046" ],
+        "Author" : [ "Wu et al.(2010)" ],
+        "Confidence_Score_NBC" : 0.92711734997754,
+        "SUID" : 931,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "930",
+        "source" : "928",
+        "target" : "927",
+        "shared_interaction" : "",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "20482850" ],
+        "Detection_Method" : [ "experimental knowledge based" ],
+        "shared_name" : "P13995 (null) Q6UB35",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (null) Q6UB35",
+        "interaction" : "",
+        "Detection_Method_ID" : [ "MI:0046" ],
+        "Author" : [ "Wu et al.(2010)" ],
+        "Confidence_Score_NBC" : 0.92711734997754,
+        "SUID" : 930,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

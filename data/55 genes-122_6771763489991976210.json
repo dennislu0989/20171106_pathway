@@ -1,0 +1,4701 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Network 1",
+    "name" : "55 genes",
+    "SUID" : 122,
+    "__Annotations" : [ "" ],
+    "networkMetadata" : "",
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "252",
+        "CMP_average_cDC_CD8_" : 1.814376131,
+        "CMP_average_cDC_CD8_" : 1.791742656,
+        "CLP_average_cDC_CD8_" : 1.396750107,
+        "CLP_average_CDP" : 1.134616516,
+        "CLP_average_cDC_CD8_" : 1.379326317,
+        "node_fillColor" : "#FFFF00",
+        "CDP_average_pDC_CD8_" : 0.752159861,
+        "shared_name" : "MCCC1",
+        "CLP_average_pDC_CD8_" : 0.772913615,
+        "CDP_average_pDC_CD8_" : 0.681211321,
+        "CLP_average_CMP" : 0.769823898,
+        "name" : "MCCC1",
+        "CMP_average_pDC_CD8_" : 1.004013537,
+        "CDP_average_cDC_CD8_" : 1.231032765,
+        "pDC_CD8_cDC_CD8_" : 1.616247135,
+        "SUID" : 252,
+        "CMP_average_pDC_CD8_" : 1.108582108,
+        "CDP_average_cDC_CD8_" : 1.21567622,
+        "pDC_CD8_cDC_CD8_" : 1.807123175,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.853413,
+        "selected" : false,
+        "canonicalName" : "node1"
+      },
+      "position" : {
+        "x" : 465.87933349609375,
+        "y" : 842.4443969726562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Phosphoethanolamine",
+        "name" : "Phosphoethanolamine",
+        "SUID" : 251,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node2"
+      },
+      "position" : {
+        "x" : 1433.484619140625,
+        "y" : 1185.1654052734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "CMP_average_cDC_CD8_" : 1.390652763,
+        "CMP_average_cDC_CD8_" : 1.923607551,
+        "CLP_average_cDC_CD8_" : 1.538944606,
+        "CLP_average_CDP" : 0.97096603,
+        "CLP_average_cDC_CD8_" : 2.128730868,
+        "node_fillColor" : "#FFFF00",
+        "CDP_average_pDC_CD8_" : 0.684430882,
+        "shared_name" : "AUH",
+        "CLP_average_pDC_CD8_" : 0.619135187,
+        "CDP_average_pDC_CD8_" : 0.637648659,
+        "CLP_average_CMP" : 1.106634702,
+        "name" : "AUH",
+        "CMP_average_pDC_CD8_" : 0.559475666,
+        "CDP_average_cDC_CD8_" : 1.584962355,
+        "pDC_CD8_cDC_CD8_" : 3.203222634,
+        "SUID" : 250,
+        "CMP_average_pDC_CD8_" : 0.60052259,
+        "CDP_average_cDC_CD8_" : 2.192384493,
+        "pDC_CD8_cDC_CD8_" : 2.485635832,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.664559137,
+        "selected" : false,
+        "canonicalName" : "node3"
+      },
+      "position" : {
+        "x" : 458.2291564941406,
+        "y" : 783.4406127929688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "CMP_average_cDC_CD8_" : 1.454926223,
+        "CMP_average_cDC_CD8_" : 1.698748335,
+        "CLP_average_cDC_CD8_" : 1.240002508,
+        "CLP_average_CDP" : 1.217314133,
+        "CLP_average_cDC_CD8_" : 1.44780688,
+        "node_fillColor" : "#FFFF00",
+        "CDP_average_pDC_CD8_" : 0.870748459,
+        "shared_name" : "MCCC2",
+        "CLP_average_pDC_CD8_" : 1.023847255,
+        "CDP_average_pDC_CD8_" : 0.841070704,
+        "CLP_average_CMP" : 0.852278616,
+        "name" : "MCCC2",
+        "CMP_average_pDC_CD8_" : 1.201305813,
+        "CDP_average_cDC_CD8_" : 1.01863806,
+        "pDC_CD8_cDC_CD8_" : 1.365888527,
+        "SUID" : 249,
+        "CMP_average_pDC_CD8_" : 1.24369471,
+        "CDP_average_cDC_CD8_" : 1.18934533,
+        "pDC_CD8_cDC_CD8_" : 1.211120605,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.059974406,
+        "selected" : false,
+        "canonicalName" : "node4"
+      },
+      "position" : {
+        "x" : 374.8349304199219,
+        "y" : 702.7921142578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "PAF",
+        "name" : "PAF",
+        "SUID" : 248,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node5"
+      },
+      "position" : {
+        "x" : 1384.2216796875,
+        "y" : 1106.0592041015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "10-Formyl-THF",
+        "name" : "10-Formyl-THF",
+        "SUID" : 247,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node6"
+      },
+      "position" : {
+        "x" : 67.22837829589844,
+        "y" : 1002.9290771484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "(2E)-Decenoyl-CoA",
+        "name" : "(2E)-Decenoyl-CoA",
+        "SUID" : 246,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node7"
+      },
+      "position" : {
+        "x" : 239.86001586914062,
+        "y" : 925.8033447265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "node_fillColor" : "#FF9933",
+        "shared_name" : "9.STEROID_HORMONE_BIOSYNTHESIS",
+        "name" : "9.STEROID_HORMONE_BIOSYNTHESIS",
+        "SUID" : 245,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node8"
+      },
+      "position" : {
+        "x" : 1880.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C04063",
+        "name" : "C04063",
+        "SUID" : 244,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node9"
+      },
+      "position" : {
+        "x" : 1106.3505859375,
+        "y" : 798.9218139648438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "node_fillColor" : "#009900",
+        "shared_name" : "10.RESPONSE_TO_LIPOPOLYSACCHARIDE",
+        "name" : "10.RESPONSE_TO_LIPOPOLYSACCHARIDE",
+        "SUID" : 243,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node10"
+      },
+      "position" : {
+        "x" : 1955.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "4-Acetamidobutanal",
+        "name" : "4-Acetamidobutanal",
+        "SUID" : 242,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node11"
+      },
+      "position" : {
+        "x" : 780.9620361328125,
+        "y" : 965.1421508789062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C06002",
+        "name" : "C06002",
+        "SUID" : 241,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node12"
+      },
+      "position" : {
+        "x" : 480.9296875,
+        "y" : 1056.9195556640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "NMN",
+        "name" : "NMN",
+        "SUID" : 240,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node13"
+      },
+      "position" : {
+        "x" : 546.9146118164062,
+        "y" : 1774.08544921875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Benzo[a]pyrene-4,5-oxide",
+        "name" : "Benzo[a]pyrene-4,5-oxide",
+        "SUID" : 239,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node14"
+      },
+      "position" : {
+        "x" : 778.3019409179688,
+        "y" : 471.3600158691406
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "CMP_average_cDC_CD8_" : 3.223294215,
+        "CMP_average_cDC_CD8_" : 2.978247884,
+        "CLP_average_cDC_CD8_" : 3.200283792,
+        "CLP_average_CDP" : 1.195396578,
+        "CLP_average_cDC_CD8_" : 2.956986795,
+        "node_fillColor" : "#CCCCCC",
+        "CDP_average_pDC_CD8_" : 2.890831256,
+        "shared_name" : "SHMT1",
+        "CLP_average_pDC_CD8_" : 3.590195698,
+        "CDP_average_pDC_CD8_" : 3.003351158,
+        "CLP_average_CMP" : 0.992861209,
+        "name" : "SHMT1",
+        "CMP_average_pDC_CD8_" : 3.616009634,
+        "CDP_average_cDC_CD8_" : 2.677173291,
+        "pDC_CD8_cDC_CD8_" : 0.855686411,
+        "SUID" : 238,
+        "CMP_average_pDC_CD8_" : 3.480536615,
+        "CDP_average_cDC_CD8_" : 2.473645022,
+        "pDC_CD8_cDC_CD8_" : 0.891395362,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 3.455689792,
+        "selected" : false,
+        "canonicalName" : "node15"
+      },
+      "position" : {
+        "x" : 266.5874938964844,
+        "y" : 1148.584716796875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "N-Ribosylnicotinamide",
+        "name" : "N-Ribosylnicotinamide",
+        "SUID" : 237,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node16"
+      },
+      "position" : {
+        "x" : 592.8189697265625,
+        "y" : 1812.603759765625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "CMP_average_cDC_CD8_" : 0.300826316,
+        "CMP_average_cDC_CD8_" : 0.412304493,
+        "CLP_average_cDC_CD8_" : 0.252547723,
+        "CLP_average_CDP" : 0.455415326,
+        "CLP_average_cDC_CD8_" : 0.346135147,
+        "node_fillColor" : "#990099",
+        "CDP_average_pDC_CD8_" : 2.350069796,
+        "shared_name" : "PAPSS2",
+        "CLP_average_pDC_CD8_" : 1.050311395,
+        "CDP_average_pDC_CD8_" : 2.306271517,
+        "CLP_average_CMP" : 0.839513399,
+        "name" : "PAPSS2",
+        "CMP_average_pDC_CD8_" : 1.251095451,
+        "CDP_average_cDC_CD8_" : 0.554543751,
+        "pDC_CD8_cDC_CD8_" : 0.323412869,
+        "SUID" : 236,
+        "CMP_average_pDC_CD8_" : 1.274854938,
+        "CDP_average_cDC_CD8_" : 0.760042816,
+        "pDC_CD8_cDC_CD8_" : 0.240450332,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.070257802,
+        "selected" : false,
+        "canonicalName" : "node17"
+      },
+      "position" : {
+        "x" : 878.9754638671875,
+        "y" : 1863.060791015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C01172",
+        "name" : "C01172",
+        "SUID" : 235,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node18"
+      },
+      "position" : {
+        "x" : 566.3555908203125,
+        "y" : -41.05997876272586
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "3-Methylcrotonyl-CoA",
+        "name" : "3-Methylcrotonyl-CoA",
+        "SUID" : 234,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node19"
+      },
+      "position" : {
+        "x" : 447.1711120605469,
+        "y" : 898.92431640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "CMP_average_cDC_CD8_" : 1.032001434,
+        "CMP_average_cDC_CD8_" : 1.049865674,
+        "CLP_average_cDC_CD8_" : 0.810614861,
+        "CLP_average_CDP" : 0.939719205,
+        "CLP_average_cDC_CD8_" : 0.824646836,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 1.075380923,
+        "shared_name" : "PLA2G12B",
+        "CLP_average_pDC_CD8_" : 0.983413198,
+        "CDP_average_pDC_CD8_" : 1.04649686,
+        "CLP_average_CMP" : 0.785478425,
+        "name" : "PLA2G12B",
+        "CMP_average_pDC_CD8_" : 1.251992629,
+        "CDP_average_cDC_CD8_" : 0.862613913,
+        "pDC_CD8_cDC_CD8_" : 0.816032708,
+        "SUID" : 233,
+        "CMP_average_pDC_CD8_" : 1.286548522,
+        "CDP_average_cDC_CD8_" : 0.877546006,
+        "pDC_CD8_cDC_CD8_" : 0.824287148,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.010556107,
+        "selected" : false,
+        "canonicalName" : "node20"
+      },
+      "position" : {
+        "x" : 1671.12255859375,
+        "y" : 905.9033203125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "CMP_average_cDC_CD8_" : 0.16867061,
+        "CMP_average_cDC_CD8_" : 0.429709047,
+        "CLP_average_cDC_CD8_" : 0.16258411,
+        "CLP_average_CDP" : 1.283917773,
+        "CLP_average_cDC_CD8_" : 0.414202944,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 1.298073294,
+        "shared_name" : "PFKFB3",
+        "CLP_average_pDC_CD8_" : 1.455657212,
+        "CDP_average_pDC_CD8_" : 1.133762023,
+        "CLP_average_CMP" : 0.963914879,
+        "name" : "PFKFB3",
+        "CMP_average_pDC_CD8_" : 1.510151201,
+        "CDP_average_cDC_CD8_" : 0.126631248,
+        "pDC_CD8_cDC_CD8_" : 0.248528819,
+        "SUID" : 232,
+        "CMP_average_pDC_CD8_" : 1.729010942,
+        "CDP_average_cDC_CD8_" : 0.322608622,
+        "pDC_CD8_cDC_CD8_" : 0.111691207,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.666619372,
+        "selected" : false,
+        "canonicalName" : "node21"
+      },
+      "position" : {
+        "x" : 376.01722383795664,
+        "y" : 150.68072509765625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Ceramide",
+        "name" : "Ceramide",
+        "SUID" : 231,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node22"
+      },
+      "position" : {
+        "x" : 987.1810302734375,
+        "y" : 1249.396240234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "CMP_average_cDC_CD8_" : 2.660471031,
+        "CMP_average_cDC_CD8_" : 3.226281672,
+        "CLP_average_cDC_CD8_" : 1.380097222,
+        "CLP_average_CDP" : 0.727907667,
+        "CLP_average_cDC_CD8_" : 1.673606786,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 1.257575751,
+        "shared_name" : "MINPP1",
+        "CLP_average_pDC_CD8_" : 0.872403365,
+        "CDP_average_pDC_CD8_" : 1.198508279,
+        "CLP_average_CMP" : 0.518741684,
+        "name" : "MINPP1",
+        "CMP_average_pDC_CD8_" : 1.681768388,
+        "CDP_average_cDC_CD8_" : 1.895978411,
+        "pDC_CD8_cDC_CD8_" : 1.828281142,
+        "SUID" : 230,
+        "CMP_average_pDC_CD8_" : 1.764652928,
+        "CDP_average_cDC_CD8_" : 2.29920203,
+        "pDC_CD8_cDC_CD8_" : 1.581948531,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.915399031,
+        "selected" : false,
+        "canonicalName" : "node23"
+      },
+      "position" : {
+        "x" : 1285.2286376953125,
+        "y" : 1069.7593994140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Arachidonate",
+        "name" : "Arachidonate",
+        "SUID" : 229,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node24"
+      },
+      "position" : {
+        "x" : 1722.770263671875,
+        "y" : 911.6052856445312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "CMP_average_cDC_CD8_" : 1.501471492,
+        "CMP_average_cDC_CD8_" : 1.146364574,
+        "CLP_average_cDC_CD8_" : 0.936936097,
+        "CLP_average_CDP" : 0.857614403,
+        "CLP_average_cDC_CD8_" : 0.71534515,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 1.062707269,
+        "shared_name" : "PCX",
+        "CLP_average_pDC_CD8_" : 0.949096844,
+        "CDP_average_pDC_CD8_" : 1.106670831,
+        "CLP_average_CMP" : 0.624011912,
+        "name" : "PCX",
+        "CMP_average_pDC_CD8_" : 1.520959498,
+        "CDP_average_cDC_CD8_" : 1.092491093,
+        "pDC_CD8_cDC_CD8_" : 0.784892031,
+        "SUID" : 228,
+        "CMP_average_pDC_CD8_" : 1.46053792,
+        "CDP_average_cDC_CD8_" : 0.834110467,
+        "pDC_CD8_cDC_CD8_" : 0.987187032,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.91139306,
+        "selected" : false,
+        "canonicalName" : "node25"
+      },
+      "position" : {
+        "x" : 259.78594970703125,
+        "y" : 717.7088623046875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Ins(1,4,5)P3",
+        "name" : "Ins(1,4,5)P3",
+        "SUID" : 227,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node26"
+      },
+      "position" : {
+        "x" : 1232.3046875,
+        "y" : 1058.937255859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "CMP_average_cDC_CD8_" : 2.304065554,
+        "CMP_average_cDC_CD8_" : 3.257832786,
+        "CLP_average_cDC_CD8_" : 1.539063973,
+        "CLP_average_CDP" : 0.705565922,
+        "CLP_average_cDC_CD8_" : 2.176159034,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.495839371,
+        "shared_name" : "GLB1",
+        "CLP_average_pDC_CD8_" : 1.074344984,
+        "CDP_average_pDC_CD8_" : 1.522671307,
+        "CLP_average_CMP" : 0.667977511,
+        "name" : "GLB1",
+        "CMP_average_pDC_CD8_" : 1.608355022,
+        "CDP_average_cDC_CD8_" : 2.181318465,
+        "pDC_CD8_cDC_CD8_" : 2.061902259,
+        "SUID" : 226,
+        "CMP_average_pDC_CD8_" : 1.5800132,
+        "CDP_average_cDC_CD8_" : 3.084274577,
+        "pDC_CD8_cDC_CD8_" : 1.4325603,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.055413284,
+        "selected" : false,
+        "canonicalName" : "node27"
+      },
+      "position" : {
+        "x" : 1122.060791015625,
+        "y" : 1442.0245361328125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "CMP_average_cDC_CD8_" : 0.732640157,
+        "CMP_average_cDC_CD8_" : 1.389781449,
+        "CLP_average_cDC_CD8_" : 0.578140743,
+        "CLP_average_CDP" : 1.535576274,
+        "CLP_average_cDC_CD8_" : 1.096703848,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 0.941541867,
+        "shared_name" : "INPP1",
+        "CLP_average_pDC_CD8_" : 1.432151209,
+        "CDP_average_pDC_CD8_" : 0.932647393,
+        "CLP_average_CMP" : 0.789119648,
+        "name" : "INPP1",
+        "CMP_average_pDC_CD8_" : 1.814872069,
+        "CDP_average_cDC_CD8_" : 0.376497575,
+        "pDC_CD8_cDC_CD8_" : 0.758539739,
+        "SUID" : 225,
+        "CMP_average_pDC_CD8_" : 1.832180145,
+        "CDP_average_cDC_CD8_" : 0.714196922,
+        "pDC_CD8_cDC_CD8_" : 0.403686943,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.445809351,
+        "selected" : false,
+        "canonicalName" : "node28"
+      },
+      "position" : {
+        "x" : 1151.70703125,
+        "y" : 867.5955200195312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Sphingosine_1-phosphate",
+        "name" : "Sphingosine_1-phosphate",
+        "SUID" : 224,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node29"
+      },
+      "position" : {
+        "x" : 1288.497314453125,
+        "y" : 1263.08740234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "CMP_average_cDC_CD8_" : 1.514164959,
+        "CMP_average_cDC_CD8_" : 1.724966482,
+        "CLP_average_cDC_CD8_" : 1.070875603,
+        "CLP_average_CDP" : 0.527360748,
+        "CLP_average_cDC_CD8_" : 1.219962535,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 1.974575199,
+        "shared_name" : "GPX1",
+        "CLP_average_pDC_CD8_" : 1.081201727,
+        "CDP_average_pDC_CD8_" : 2.050212746,
+        "CLP_average_CMP" : 0.7072384,
+        "name" : "GPX1",
+        "CMP_average_pDC_CD8_" : 1.528765586,
+        "CDP_average_cDC_CD8_" : 2.030631986,
+        "pDC_CD8_cDC_CD8_" : 1.171561292,
+        "SUID" : 223,
+        "CMP_average_pDC_CD8_" : 1.472365547,
+        "CDP_average_cDC_CD8_" : 2.31333587,
+        "pDC_CD8_cDC_CD8_" : 0.990449401,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.041313454,
+        "selected" : false,
+        "canonicalName" : "node30"
+      },
+      "position" : {
+        "x" : 690.4435982862901,
+        "y" : 257.84492307613755
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "node_fillColor" : "#FF9933",
+        "shared_name" : "UGT1A6B",
+        "name" : "UGT1A6B",
+        "SUID" : 222,
+        "node_shape" : "triangle",
+        "selected" : false,
+        "canonicalName" : "node31"
+      },
+      "position" : {
+        "x" : 1033.08544921875,
+        "y" : 1774.08544921875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "CMP_average_cDC_CD8_" : 0.788718022,
+        "CMP_average_cDC_CD8_" : 0.062138709,
+        "CLP_average_cDC_CD8_" : 1.300205591,
+        "CLP_average_CDP" : 2.111696394,
+        "CLP_average_cDC_CD8_" : 0.102435971,
+        "node_fillColor" : "#009900",
+        "CDP_average_pDC_CD8_" : 0.800269338,
+        "shared_name" : "PTGS2",
+        "CLP_average_pDC_CD8_" : 1.991159929,
+        "CDP_average_pDC_CD8_" : 0.942919604,
+        "CLP_average_CMP" : 1.648504986,
+        "name" : "PTGS2",
+        "CMP_average_pDC_CD8_" : 1.207857996,
+        "CDP_average_cDC_CD8_" : 0.615716158,
+        "pDC_CD8_cDC_CD8_" : 0.060615659,
+        "SUID" : 221,
+        "CMP_average_pDC_CD8_" : 1.025126336,
+        "CDP_average_cDC_CD8_" : 0.048508854,
+        "pDC_CD8_cDC_CD8_" : 0.652989031,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.689925876,
+        "selected" : false,
+        "canonicalName" : "node32"
+      },
+      "position" : {
+        "x" : 1804.2276611328125,
+        "y" : 875.8480834960938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "CMP_average_cDC_CD8_" : 0.97475238,
+        "CMP_average_cDC_CD8_" : 1.0286299,
+        "CLP_average_cDC_CD8_" : 0.67217613,
+        "CLP_average_CDP" : 0.784868114,
+        "CLP_average_cDC_CD8_" : 0.709329343,
+        "node_fillColor" : "#CCCCCC",
+        "CDP_average_pDC_CD8_" : 0.854329461,
+        "shared_name" : "MTHFR",
+        "CLP_average_pDC_CD8_" : 0.69577663,
+        "CDP_average_pDC_CD8_" : 0.886488593,
+        "CLP_average_CMP" : 0.68958655,
+        "name" : "MTHFR",
+        "CMP_average_pDC_CD8_" : 1.00897651,
+        "CDP_average_cDC_CD8_" : 0.85641921,
+        "pDC_CD8_cDC_CD8_" : 1.057854304,
+        "SUID" : 220,
+        "CMP_average_pDC_CD8_" : 0.972373886,
+        "CDP_average_cDC_CD8_" : 0.903756097,
+        "pDC_CD8_cDC_CD8_" : 0.966080349,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.670535953,
+        "selected" : false,
+        "canonicalName" : "node33"
+      },
+      "position" : {
+        "x" : 200.1344451904297,
+        "y" : 1100.0328369140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Purine-6-ol",
+        "name" : "Purine-6-ol",
+        "SUID" : 219,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node34"
+      },
+      "position" : {
+        "x" : 447.5334777832031,
+        "y" : 1560.9619140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "node_fillColor" : "#FFFF00",
+        "shared_name" : "5.VALINE,_LEUCINE_AND_ISOLEUCINE_DEGRADATION",
+        "name" : "5.VALINE,_LEUCINE_AND_ISOLEUCINE_DEGRADATION",
+        "SUID" : 218,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node35"
+      },
+      "position" : {
+        "x" : 2030.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "node_fillColor" : "#CCCCCC",
+        "shared_name" : "7.ONE_CARBON_POOL_BY_FOLATE",
+        "name" : "7.ONE_CARBON_POOL_BY_FOLATE",
+        "SUID" : 217,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node36"
+      },
+      "position" : {
+        "x" : 2105.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "CMP_average_cDC_CD8_" : 1.962101689,
+        "CMP_average_cDC_CD8_" : 2.092475791,
+        "CLP_average_cDC_CD8_" : 1.097359185,
+        "CLP_average_CDP" : 0.593722431,
+        "CLP_average_cDC_CD8_" : 1.170274477,
+        "node_fillColor" : "#009966",
+        "CDP_average_pDC_CD8_" : 0.703625572,
+        "shared_name" : "SMS",
+        "CLP_average_pDC_CD8_" : 0.436576942,
+        "CDP_average_pDC_CD8_" : 0.735321624,
+        "CLP_average_CMP" : 0.559277427,
+        "name" : "SMS",
+        "CMP_average_pDC_CD8_" : 0.780608909,
+        "CDP_average_cDC_CD8_" : 1.84826971,
+        "pDC_CD8_cDC_CD8_" : 2.801319613,
+        "SUID" : 216,
+        "CMP_average_pDC_CD8_" : 0.746960747,
+        "CDP_average_cDC_CD8_" : 1.971080115,
+        "pDC_CD8_cDC_CD8_" : 2.513552775,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.417758285,
+        "selected" : false,
+        "canonicalName" : "node37"
+      },
+      "position" : {
+        "x" : 508.396240234375,
+        "y" : 1333.8189697265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "CMP_average_cDC_CD8_" : 1.064214098,
+        "CMP_average_cDC_CD8_" : 0.630956893,
+        "CLP_average_cDC_CD8_" : 1.428316196,
+        "CLP_average_CDP" : 1.8054895,
+        "CLP_average_cDC_CD8_" : 0.846827674,
+        "node_fillColor" : "#009966",
+        "CDP_average_pDC_CD8_" : 1.174870677,
+        "shared_name" : "GGT5",
+        "CLP_average_pDC_CD8_" : 2.005944802,
+        "CDP_average_pDC_CD8_" : 1.11102546,
+        "CLP_average_CMP" : 1.342132377,
+        "name" : "GGT5",
+        "CMP_average_pDC_CD8_" : 1.494595345,
+        "CDP_average_cDC_CD8_" : 0.791096374,
+        "pDC_CD8_cDC_CD8_" : 0.399217905,
+        "SUID" : 215,
+        "CMP_average_pDC_CD8_" : 1.580482453,
+        "CDP_average_cDC_CD8_" : 0.46902941,
+        "pDC_CD8_cDC_CD8_" : 0.712041625,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 2.121216671,
+        "selected" : false,
+        "canonicalName" : "node38"
+      },
+      "position" : {
+        "x" : 919.5889282226562,
+        "y" : 289.6746520996094
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "CMP_average_cDC_CD8_" : 1.070720751,
+        "CMP_average_cDC_CD8_" : 1.331863254,
+        "CLP_average_cDC_CD8_" : 0.866234827,
+        "CLP_average_CDP" : 1.202861114,
+        "CLP_average_cDC_CD8_" : 1.077504415,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 0.526602036,
+        "shared_name" : "EHHADH",
+        "CLP_average_pDC_CD8_" : 0.667181216,
+        "CDP_average_pDC_CD8_" : 0.554661887,
+        "CLP_average_CMP" : 0.809020304,
+        "name" : "EHHADH",
+        "CMP_average_pDC_CD8_" : 0.824677962,
+        "CDP_average_cDC_CD8_" : 0.720145341,
+        "pDC_CD8_cDC_CD8_" : 1.701065511,
+        "SUID" : 214,
+        "CMP_average_pDC_CD8_" : 0.782958238,
+        "CDP_average_cDC_CD8_" : 0.895784561,
+        "pDC_CD8_cDC_CD8_" : 1.298350144,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.633429111,
+        "selected" : false,
+        "canonicalName" : "node39"
+      },
+      "position" : {
+        "x" : 405.8098449707031,
+        "y" : 941.6937866210938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "node_fillColor" : "#FF0033",
+        "shared_name" : "1.LIPID_METABOLIC_PROCESS",
+        "name" : "1.LIPID_METABOLIC_PROCESS",
+        "SUID" : 213,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node40"
+      },
+      "position" : {
+        "x" : 2180.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "CMP_average_cDC_CD8_" : 0.74492563,
+        "CMP_average_cDC_CD8_" : 0.187679998,
+        "CLP_average_cDC_CD8_" : 1.109977582,
+        "CLP_average_CDP" : 1.618513257,
+        "CLP_average_cDC_CD8_" : 0.27965287,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.102416265,
+        "shared_name" : "B4GALT6",
+        "CLP_average_pDC_CD8_" : 1.666017294,
+        "CDP_average_pDC_CD8_" : 1.029350416,
+        "CLP_average_CMP" : 1.490051541,
+        "name" : "B4GALT6",
+        "CMP_average_pDC_CD8_" : 1.118093736,
+        "CDP_average_cDC_CD8_" : 0.685800736,
+        "pDC_CD8_cDC_CD8_" : 0.156731903,
+        "SUID" : 212,
+        "CMP_average_pDC_CD8_" : 1.197458806,
+        "CDP_average_cDC_CD8_" : 0.1727838,
+        "pDC_CD8_cDC_CD8_" : 0.666246134,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.784275339,
+        "selected" : false,
+        "canonicalName" : "node41"
+      },
+      "position" : {
+        "x" : 1323.9217529296875,
+        "y" : 1343.3717041015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "CMP_average_cDC_CD8_" : 1.475039936,
+        "CMP_average_cDC_CD8_" : 2.20475973,
+        "CLP_average_cDC_CD8_" : 1.210925624,
+        "CLP_average_CDP" : 0.522052934,
+        "CLP_average_cDC_CD8_" : 1.809984929,
+        "node_fillColor" : "#000000",
+        "CDP_average_pDC_CD8_" : 1.868530241,
+        "shared_name" : "NDUFA2",
+        "CLP_average_pDC_CD8_" : 1.105141937,
+        "CDP_average_pDC_CD8_" : 2.116915479,
+        "CLP_average_CMP" : 0.820944298,
+        "name" : "NDUFA2",
+        "CMP_average_pDC_CD8_" : 1.346183827,
+        "CDP_average_cDC_CD8_" : 2.319545675,
+        "pDC_CD8_cDC_CD8_" : 1.85549713,
+        "SUID" : 211,
+        "CMP_average_pDC_CD8_" : 1.18823128,
+        "CDP_average_cDC_CD8_" : 3.467052499,
+        "pDC_CD8_cDC_CD8_" : 1.095719549,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.975471694,
+        "selected" : false,
+        "canonicalName" : "node42"
+      },
+      "position" : {
+        "x" : 199.71646118164062,
+        "y" : 816.9581909179688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "node_fillColor" : "#00CC00",
+        "shared_name" : "3.GLYCEROPHOSPHOLIPID_METABOLISM",
+        "name" : "3.GLYCEROPHOSPHOLIPID_METABOLISM",
+        "SUID" : 210,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node43"
+      },
+      "position" : {
+        "x" : 2255.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "CMP_average_cDC_CD8_" : 3.340732855,
+        "CMP_average_cDC_CD8_" : 4.150238941,
+        "CLP_average_cDC_CD8_" : 1.448438729,
+        "CLP_average_CDP" : 0.840601445,
+        "CLP_average_cDC_CD8_" : 1.799415601,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 1.465489123,
+        "shared_name" : "MTAP",
+        "CLP_average_pDC_CD8_" : 1.28316884,
+        "CDP_average_pDC_CD8_" : 1.526488977,
+        "CLP_average_CMP" : 0.433569157,
+        "name" : "MTAP",
+        "CMP_average_pDC_CD8_" : 2.959548247,
+        "CDP_average_cDC_CD8_" : 1.723098072,
+        "pDC_CD8_cDC_CD8_" : 1.460692333,
+        "SUID" : 209,
+        "CMP_average_pDC_CD8_" : 2.841282074,
+        "CDP_average_cDC_CD8_" : 2.140628726,
+        "pDC_CD8_cDC_CD8_" : 1.128798241,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.231892275,
+        "selected" : false,
+        "canonicalName" : "node44"
+      },
+      "position" : {
+        "x" : 457.93914794921875,
+        "y" : 1442.0245361328125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "CMP_average_cDC_CD8_" : 2.070770465,
+        "CMP_average_cDC_CD8_" : 2.438086097,
+        "CLP_average_cDC_CD8_" : 1.130159942,
+        "CLP_average_CDP" : 1.009860558,
+        "CLP_average_cDC_CD8_" : 1.330629004,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 0.863550053,
+        "shared_name" : "CHPT1",
+        "CLP_average_pDC_CD8_" : 0.825522313,
+        "CDP_average_pDC_CD8_" : 0.817461684,
+        "CLP_average_CMP" : 0.545767849,
+        "name" : "CHPT1",
+        "CMP_average_pDC_CD8_" : 1.512588759,
+        "CDP_average_cDC_CD8_" : 1.119124747,
+        "pDC_CD8_cDC_CD8_" : 1.525836713,
+        "SUID" : 208,
+        "CMP_average_pDC_CD8_" : 1.597868289,
+        "CDP_average_cDC_CD8_" : 1.317636374,
+        "pDC_CD8_cDC_CD8_" : 1.369024101,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.872065138,
+        "selected" : false,
+        "canonicalName" : "node45"
+      },
+      "position" : {
+        "x" : 1317.27783203125,
+        "y" : 1153.93212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "CMP_average_cDC_CD8_" : 1.373346598,
+        "CMP_average_cDC_CD8_" : 0.565588261,
+        "CLP_average_cDC_CD8_" : 2.429420638,
+        "CLP_average_CDP" : 2.469254224,
+        "CLP_average_cDC_CD8_" : 1.000513488,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 3.213492545,
+        "shared_name" : "LPCAT2",
+        "CLP_average_pDC_CD8_" : 7.865328179,
+        "CDP_average_pDC_CD8_" : 3.185305143,
+        "CLP_average_CMP" : 1.768978525,
+        "name" : "LPCAT2",
+        "CMP_average_pDC_CD8_" : 4.446254191,
+        "CDP_average_cDC_CD8_" : 0.983868171,
+        "pDC_CD8_cDC_CD8_" : 0.126089768,
+        "SUID" : 207,
+        "CMP_average_pDC_CD8_" : 4.485599983,
+        "CDP_average_cDC_CD8_" : 0.40518853,
+        "pDC_CD8_cDC_CD8_" : 0.308877212,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 7.934930041,
+        "selected" : false,
+        "canonicalName" : "node46"
+      },
+      "position" : {
+        "x" : 1451.1654052734375,
+        "y" : 1058.186279296875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "CMP_average_cDC_CD8_" : 0.986476065,
+        "CMP_average_cDC_CD8_" : 1.281047682,
+        "CLP_average_cDC_CD8_" : 1.153411654,
+        "CLP_average_CDP" : 0.965314711,
+        "CLP_average_cDC_CD8_" : 1.497831907,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.473650201,
+        "shared_name" : "GPI1",
+        "CLP_average_pDC_CD8_" : 1.394889208,
+        "CDP_average_pDC_CD8_" : 1.44500979,
+        "CLP_average_CMP" : 1.169224166,
+        "name" : "GPI1",
+        "CMP_average_pDC_CD8_" : 1.193004087,
+        "CDP_average_cDC_CD8_" : 1.194855565,
+        "pDC_CD8_cDC_CD8_" : 1.052930596,
+        "SUID" : 206,
+        "CMP_average_pDC_CD8_" : 1.216649689,
+        "CDP_average_cDC_CD8_" : 1.551651384,
+        "pDC_CD8_cDC_CD8_" : 0.826884062,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.422536217,
+        "selected" : false,
+        "canonicalName" : "node47"
+      },
+      "position" : {
+        "x" : 597.5234985351562,
+        "y" : 91.71109771728516
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "G09660",
+        "name" : "G09660",
+        "SUID" : 205,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node48"
+      },
+      "position" : {
+        "x" : 1122.060791015625,
+        "y" : 1619.9754638671875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "CMP_average_cDC_CD8_" : 1.15275427,
+        "CMP_average_cDC_CD8_" : 1.547328745,
+        "CLP_average_cDC_CD8_" : 0.841155543,
+        "CLP_average_CDP" : 0.370423834,
+        "CLP_average_cDC_CD8_" : 1.129073372,
+        "node_fillColor" : "#FFFF00",
+        "CDP_average_pDC_CD8_" : 2.199028457,
+        "shared_name" : "ALDH9A1",
+        "CLP_average_pDC_CD8_" : 0.873684575,
+        "CDP_average_pDC_CD8_" : 2.358607885,
+        "CLP_average_CMP" : 0.729691978,
+        "name" : "ALDH9A1",
+        "CMP_average_pDC_CD8_" : 1.197333397,
+        "CDP_average_cDC_CD8_" : 2.270792176,
+        "pDC_CD8_cDC_CD8_" : 1.386093074,
+        "SUID" : 204,
+        "CMP_average_pDC_CD8_" : 1.116323841,
+        "CDP_average_cDC_CD8_" : 3.048058114,
+        "pDC_CD8_cDC_CD8_" : 0.962767992,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.814572551,
+        "selected" : false,
+        "canonicalName" : "node49"
+      },
+      "position" : {
+        "x" : 333.04052734375,
+        "y" : 1197.1365966796875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "CMP_average_cDC_CD8_" : 7.024312166,
+        "CMP_average_cDC_CD8_" : 7.196627013,
+        "CLP_average_cDC_CD8_" : 1.926849058,
+        "CLP_average_CDP" : 1.193347521,
+        "CLP_average_cDC_CD8_" : 1.974116989,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 0.463194306,
+        "shared_name" : "UGCG",
+        "CLP_average_pDC_CD8_" : 0.542034394,
+        "CDP_average_pDC_CD8_" : 0.454213366,
+        "CLP_average_CMP" : 0.274311422,
+        "name" : "UGCG",
+        "CMP_average_pDC_CD8_" : 1.975981862,
+        "CDP_average_cDC_CD8_" : 1.614658784,
+        "pDC_CD8_cDC_CD8_" : 3.571434902,
+        "SUID" : 203,
+        "CMP_average_pDC_CD8_" : 2.015051992,
+        "CDP_average_cDC_CD8_" : 1.654268311,
+        "pDC_CD8_cDC_CD8_" : 3.55484648,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.552751777,
+        "selected" : false,
+        "canonicalName" : "node50"
+      },
+      "position" : {
+        "x" : 1101.565673828125,
+        "y" : 1385.714599609375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "CMP_average_cDC_CD8_" : 0.787356254,
+        "CMP_average_cDC_CD8_" : 1.397066709,
+        "CLP_average_cDC_CD8_" : 0.47320387,
+        "CLP_average_CDP" : 0.950785345,
+        "CLP_average_cDC_CD8_" : 0.839641991,
+        "node_fillColor" : "#009900",
+        "CDP_average_pDC_CD8_" : 0.383403112,
+        "shared_name" : "IDO1",
+        "CLP_average_pDC_CD8_" : 0.321357731,
+        "CDP_average_pDC_CD8_" : 0.337991885,
+        "CLP_average_CMP" : 0.601003506,
+        "name" : "IDO1",
+        "CMP_average_pDC_CD8_" : 0.534701923,
+        "CDP_average_cDC_CD8_" : 0.4976979,
+        "pDC_CD8_cDC_CD8_" : 2.303329324,
+        "SUID" : 202,
+        "CMP_average_pDC_CD8_" : 0.606542319,
+        "CDP_average_cDC_CD8_" : 0.883103631,
+        "pDC_CD8_cDC_CD8_" : 1.472514349,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.36453406,
+        "selected" : false,
+        "canonicalName" : "node51"
+      },
+      "position" : {
+        "x" : 778.1832275390625,
+        "y" : 718.258544921875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "node_fillColor" : "#009966",
+        "shared_name" : "8.GLUTATHIONE_METABOLISM",
+        "name" : "8.GLUTATHIONE_METABOLISM",
+        "SUID" : 201,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node52"
+      },
+      "position" : {
+        "x" : 2330.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "1,2-Diacylglycerol",
+        "name" : "1,2-Diacylglycerol",
+        "SUID" : 200,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node53"
+      },
+      "position" : {
+        "x" : 878.9754638671875,
+        "y" : 1198.939208984375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "CMP_average_cDC_CD8_" : 0.949774704,
+        "CMP_average_cDC_CD8_" : 0.712267526,
+        "CLP_average_cDC_CD8_" : 0.75529093,
+        "CLP_average_CDP" : 0.892780668,
+        "CLP_average_cDC_CD8_" : 0.566417699,
+        "node_fillColor" : "#FF9933",
+        "CDP_average_pDC_CD8_" : 1.062947899,
+        "shared_name" : "CYP1B1",
+        "CLP_average_pDC_CD8_" : 1.05560672,
+        "CDP_average_pDC_CD8_" : 1.182380799,
+        "CLP_average_CMP" : 0.795231677,
+        "name" : "CYP1B1",
+        "CMP_average_pDC_CD8_" : 1.327420362,
+        "CDP_average_cDC_CD8_" : 0.845998303,
+        "pDC_CD8_cDC_CD8_" : 0.596870425,
+        "SUID" : 199,
+        "CMP_average_pDC_CD8_" : 1.19333694,
+        "CDP_average_cDC_CD8_" : 0.634442164,
+        "pDC_CD8_cDC_CD8_" : 0.715504094,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.948979336,
+        "selected" : false,
+        "canonicalName" : "node54"
+      },
+      "position" : {
+        "x" : 777.9027099609375,
+        "y" : 553.6590576171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "CMP_average_cDC_CD8_" : 1.088456875,
+        "CMP_average_cDC_CD8_" : 0.901406364,
+        "CLP_average_cDC_CD8_" : 1.159227997,
+        "CLP_average_CDP" : 0.512847199,
+        "CLP_average_cDC_CD8_" : 0.96001552,
+        "node_fillColor" : "#FFFF00",
+        "CDP_average_pDC_CD8_" : 1.005783537,
+        "shared_name" : "ALDH1B1",
+        "CLP_average_pDC_CD8_" : 0.665706763,
+        "CDP_average_pDC_CD8_" : 1.298060639,
+        "CLP_average_CMP" : 1.065019684,
+        "name" : "ALDH1B1",
+        "CMP_average_pDC_CD8_" : 0.62506522,
+        "CDP_average_cDC_CD8_" : 2.260376968,
+        "pDC_CD8_cDC_CD8_" : 1.861168715,
+        "SUID" : 198,
+        "CMP_average_pDC_CD8_" : 0.484322757,
+        "CDP_average_cDC_CD8_" : 1.871932853,
+        "pDC_CD8_cDC_CD8_" : 1.741349287,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.51581327,
+        "selected" : false,
+        "canonicalName" : "node55"
+      },
+      "position" : {
+        "x" : 553.6371459960938,
+        "y" : 1156.8284912109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "CMP_average_cDC_CD8_" : 1.180095344,
+        "CMP_average_cDC_CD8_" : 1.192951773,
+        "CLP_average_cDC_CD8_" : 0.804189747,
+        "CLP_average_CDP" : 0.988906934,
+        "CLP_average_cDC_CD8_" : 0.812950911,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 1.066251951,
+        "shared_name" : "PNLIP",
+        "CLP_average_pDC_CD8_" : 1.039056644,
+        "CDP_average_pDC_CD8_" : 1.050712265,
+        "CLP_average_CMP" : 0.681461672,
+        "name" : "PNLIP",
+        "CMP_average_pDC_CD8_" : 1.524747005,
+        "CDP_average_cDC_CD8_" : 0.813210748,
+        "pDC_CD8_cDC_CD8_" : 0.770990561,
+        "SUID" : 197,
+        "CMP_average_pDC_CD8_" : 1.547297507,
+        "CDP_average_cDC_CD8_" : 0.82207019,
+        "pDC_CD8_cDC_CD8_" : 0.773961411,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.054423947,
+        "selected" : false,
+        "canonicalName" : "node56"
+      },
+      "position" : {
+        "x" : 931.2599487304688,
+        "y" : 982.9832153320312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "CMP_average_cDC_CD8_" : 0.176963982,
+        "CMP_average_cDC_CD8_" : 0.801009822,
+        "CLP_average_cDC_CD8_" : 0.14475236,
+        "CLP_average_CDP" : 0.844297616,
+        "CLP_average_cDC_CD8_" : 0.655207125,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 1.112797909,
+        "shared_name" : "PLCE1",
+        "CLP_average_pDC_CD8_" : 0.973343127,
+        "CDP_average_pDC_CD8_" : 1.152843628,
+        "CLP_average_CMP" : 0.817976394,
+        "name" : "PLCE1",
+        "CMP_average_pDC_CD8_" : 1.189940363,
+        "CDP_average_cDC_CD8_" : 0.171447079,
+        "pDC_CD8_cDC_CD8_" : 0.697375599,
+        "SUID" : 196,
+        "CMP_average_pDC_CD8_" : 1.148606035,
+        "CDP_average_cDC_CD8_" : 0.776038109,
+        "pDC_CD8_cDC_CD8_" : 0.148716682,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.939532622,
+        "selected" : false,
+        "canonicalName" : "node57"
+      },
+      "position" : {
+        "x" : 1162.560546875,
+        "y" : 1105.000732421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "CMP_average_cDC_CD8_" : 1.807465951,
+        "CMP_average_cDC_CD8_" : 1.625707538,
+        "CLP_average_cDC_CD8_" : 1.771218294,
+        "CLP_average_CDP" : 0.94104254,
+        "CLP_average_cDC_CD8_" : 1.593104937,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 1.252714285,
+        "shared_name" : "SMOX",
+        "CLP_average_pDC_CD8_" : 1.122311567,
+        "CDP_average_pDC_CD8_" : 1.192625752,
+        "CLP_average_CMP" : 0.979945593,
+        "name" : "SMOX",
+        "CMP_average_pDC_CD8_" : 1.145279467,
+        "CDP_average_cDC_CD8_" : 1.882187275,
+        "pDC_CD8_cDC_CD8_" : 1.351397458,
+        "SUID" : 195,
+        "CMP_average_pDC_CD8_" : 1.202982534,
+        "CDP_average_cDC_CD8_" : 1.6929149,
+        "pDC_CD8_cDC_CD8_" : 1.578187686,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.178857433,
+        "selected" : false,
+        "canonicalName" : "node58"
+      },
+      "position" : {
+        "x" : 592.8189697265625,
+        "y" : 1249.396240234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "CMP_average_cDC_CD8_" : 1.570144377,
+        "CMP_average_cDC_CD8_" : 1.520299116,
+        "CLP_average_cDC_CD8_" : 0.989222588,
+        "CLP_average_CDP" : 1.143409415,
+        "CLP_average_cDC_CD8_" : 0.95781907,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 0.795317611,
+        "shared_name" : "MAOB",
+        "CLP_average_pDC_CD8_" : 0.985437589,
+        "CDP_average_pDC_CD8_" : 0.861841416,
+        "CLP_average_CMP" : 0.630020145,
+        "name" : "MAOB",
+        "CMP_average_pDC_CD8_" : 1.564136633,
+        "CDP_average_cDC_CD8_" : 0.865151691,
+        "pDC_CD8_cDC_CD8_" : 1.053273399,
+        "SUID" : 194,
+        "CMP_average_pDC_CD8_" : 1.443404075,
+        "CDP_average_cDC_CD8_" : 0.837686884,
+        "pDC_CD8_cDC_CD8_" : 1.003840933,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.909373645,
+        "selected" : false,
+        "canonicalName" : "node59"
+      },
+      "position" : {
+        "x" : 779.8040161132812,
+        "y" : 882.850341796875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "CMP_average_cDC_CD8_" : 0.692293625,
+        "CMP_average_cDC_CD8_" : 1.002179956,
+        "CLP_average_cDC_CD8_" : 0.64308653,
+        "CLP_average_CDP" : 0.887184846,
+        "CLP_average_cDC_CD8_" : 0.93094665,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.798321655,
+        "shared_name" : "GPD2",
+        "CLP_average_pDC_CD8_" : 1.708989447,
+        "CDP_average_pDC_CD8_" : 1.926305949,
+        "CLP_average_CMP" : 0.928921641,
+        "name" : "GPD2",
+        "CMP_average_pDC_CD8_" : 1.839756305,
+        "CDP_average_cDC_CD8_" : 0.724861942,
+        "pDC_CD8_cDC_CD8_" : 0.583503284,
+        "SUID" : 193,
+        "CMP_average_pDC_CD8_" : 1.717522393,
+        "CDP_average_cDC_CD8_" : 1.049326591,
+        "pDC_CD8_cDC_CD8_" : 0.376296373,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.59544372,
+        "selected" : false,
+        "canonicalName" : "node60"
+      },
+      "position" : {
+        "x" : 709.4433646291043,
+        "y" : -162.28622436523438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "MTA",
+        "name" : "MTA",
+        "SUID" : 192,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node61"
+      },
+      "position" : {
+        "x" : 478.434326171875,
+        "y" : 1385.714599609375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "CMP_average_cDC_CD8_" : 0.462663014,
+        "CMP_average_cDC_CD8_" : 0.657004847,
+        "CLP_average_cDC_CD8_" : 0.797729064,
+        "CLP_average_CDP" : 0.432692445,
+        "CLP_average_cDC_CD8_" : 1.13281556,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 0.522426074,
+        "shared_name" : "INPP4A",
+        "CLP_average_pDC_CD8_" : 0.219871603,
+        "CDP_average_pDC_CD8_" : 0.508147545,
+        "CLP_average_CMP" : 1.724211875,
+        "name" : "INPP4A",
+        "CMP_average_pDC_CD8_" : 0.127520061,
+        "CDP_average_cDC_CD8_" : 1.84363992,
+        "pDC_CD8_cDC_CD8_" : 5.011353626,
+        "SUID" : 191,
+        "CMP_average_pDC_CD8_" : 0.13110327,
+        "CDP_average_cDC_CD8_" : 2.618061799,
+        "pDC_CD8_cDC_CD8_" : 3.628158669,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.226049815,
+        "selected" : false,
+        "canonicalName" : "node62"
+      },
+      "position" : {
+        "x" : 1060.994140625,
+        "y" : 730.248046875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "CMP_average_cDC_CD8_" : 0.052191711,
+        "CMP_average_cDC_CD8_" : 0.763302775,
+        "CLP_average_cDC_CD8_" : 0.04908011,
+        "CLP_average_CDP" : 0.925788533,
+        "CLP_average_cDC_CD8_" : 0.717795666,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 1.027117167,
+        "shared_name" : "PPAP2A",
+        "CLP_average_pDC_CD8_" : 1.01117621,
+        "CDP_average_pDC_CD8_" : 1.092232378,
+        "CLP_average_CMP" : 0.940381314,
+        "name" : "PPAP2A",
+        "CMP_average_pDC_CD8_" : 1.075283181,
+        "CDP_average_cDC_CD8_" : 0.053014385,
+        "pDC_CD8_cDC_CD8_" : 0.754864579,
+        "SUID" : 190,
+        "CMP_average_pDC_CD8_" : 1.011178424,
+        "CDP_average_cDC_CD8_" : 0.775334367,
+        "pDC_CD8_cDC_CD8_" : 0.048537643,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.950893294,
+        "selected" : false,
+        "canonicalName" : "node63"
+      },
+      "position" : {
+        "x" : 935.2854614257812,
+        "y" : 1219.434326171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Serotonin",
+        "name" : "Serotonin",
+        "SUID" : 189,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node64"
+      },
+      "position" : {
+        "x" : 778.8531494140625,
+        "y" : 800.5557861328125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "CMP_average_cDC_CD8_" : 0.299125347,
+        "CMP_average_cDC_CD8_" : 0.470170757,
+        "CLP_average_cDC_CD8_" : 0.41797145,
+        "CLP_average_CDP" : 0.480074563,
+        "CLP_average_cDC_CD8_" : 0.656975262,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 1.174125492,
+        "shared_name" : "SGPL1",
+        "CLP_average_pDC_CD8_" : 0.566564845,
+        "CDP_average_pDC_CD8_" : 1.180160103,
+        "CLP_average_CMP" : 1.397312045,
+        "name" : "SGPL1",
+        "CMP_average_pDC_CD8_" : 0.40546766,
+        "CDP_average_cDC_CD8_" : 0.870638611,
+        "pDC_CD8_cDC_CD8_" : 1.165536302,
+        "SUID" : 188,
+        "CMP_average_pDC_CD8_" : 0.403394349,
+        "CDP_average_cDC_CD8_" : 1.368485884,
+        "pDC_CD8_cDC_CD8_" : 0.737729236,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.563667782,
+        "selected" : false,
+        "canonicalName" : "node65"
+      },
+      "position" : {
+        "x" : 1360.990966796875,
+        "y" : 1224.12646484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Glucuronide",
+        "name" : "Glucuronide",
+        "SUID" : 187,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node66"
+      },
+      "position" : {
+        "x" : 1071.603759765625,
+        "y" : 1728.1810302734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "CMP_average_cDC_CD8_" : 2.508921968,
+        "CMP_average_cDC_CD8_" : 3.487885478,
+        "CLP_average_cDC_CD8_" : 2.078234499,
+        "CLP_average_CDP" : 0.674910574,
+        "CLP_average_cDC_CD8_" : 2.889146822,
+        "node_fillColor" : "#990099",
+        "CDP_average_pDC_CD8_" : 4.576660211,
+        "shared_name" : "PNP",
+        "CLP_average_pDC_CD8_" : 3.065724893,
+        "CDP_average_pDC_CD8_" : 4.542416447,
+        "CLP_average_CMP" : 0.828337639,
+        "name" : "PNP",
+        "CMP_average_pDC_CD8_" : 3.701057092,
+        "CDP_average_cDC_CD8_" : 3.079273875,
+        "pDC_CD8_cDC_CD8_" : 0.935351205,
+        "SUID" : 186,
+        "CMP_average_pDC_CD8_" : 3.728958128,
+        "CDP_average_cDC_CD8_" : 4.280784644,
+        "pDC_CD8_cDC_CD8_" : 0.677893344,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 3.088836371,
+        "selected" : false,
+        "canonicalName" : "node67"
+      },
+      "position" : {
+        "x" : 279.0475490448071,
+        "y" : 1694.634033203125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "CMP_average_cDC_CD8_" : 2.068015474,
+        "CMP_average_cDC_CD8_" : 2.507421896,
+        "CLP_average_cDC_CD8_" : 1.452508926,
+        "CLP_average_CDP" : 0.651966936,
+        "CLP_average_cDC_CD8_" : 1.761134154,
+        "node_fillColor" : "#990099",
+        "CDP_average_pDC_CD8_" : 2.437745715,
+        "shared_name" : "HPRT",
+        "CLP_average_pDC_CD8_" : 1.624094436,
+        "CDP_average_pDC_CD8_" : 2.491068714,
+        "CLP_average_CMP" : 0.702368499,
+        "name" : "HPRT",
+        "CMP_average_pDC_CD8_" : 2.312311041,
+        "CDP_average_cDC_CD8_" : 2.227887407,
+        "pDC_CD8_cDC_CD8_" : 1.108098755,
+        "SUID" : 185,
+        "CMP_average_pDC_CD8_" : 2.262814469,
+        "CDP_average_cDC_CD8_" : 2.701262991,
+        "pDC_CD8_cDC_CD8_" : 0.894350041,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.589329603,
+        "selected" : false,
+        "canonicalName" : "node68"
+      },
+      "position" : {
+        "x" : 760.0380859375,
+        "y" : 1873.466552734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "node_fillColor" : "#990099",
+        "shared_name" : "6.PURINE_METABOLISM",
+        "name" : "6.PURINE_METABOLISM",
+        "SUID" : 184,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node69"
+      },
+      "position" : {
+        "x" : 0.0,
+        "y" : 2153.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "CMP_average_cDC_CD8_" : 0.370375974,
+        "CMP_average_cDC_CD8_" : 2.289650855,
+        "CLP_average_cDC_CD8_" : 0.248757102,
+        "CLP_average_CDP" : 1.310904935,
+        "CLP_average_cDC_CD8_" : 1.537807396,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 0.513203068,
+        "shared_name" : "GALC",
+        "CLP_average_pDC_CD8_" : 0.810159865,
+        "CDP_average_pDC_CD8_" : 0.618015726,
+        "CLP_average_CMP" : 0.671634015,
+        "name" : "GALC",
+        "CMP_average_pDC_CD8_" : 1.206251988,
+        "CDP_average_cDC_CD8_" : 0.189759833,
+        "pDC_CD8_cDC_CD8_" : 2.285817233,
+        "SUID" : 183,
+        "CMP_average_pDC_CD8_" : 1.001677134,
+        "CDP_average_cDC_CD8_" : 1.173088418,
+        "pDC_CD8_cDC_CD8_" : 0.307046933,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.672760435,
+        "selected" : false,
+        "canonicalName" : "node70"
+      },
+      "position" : {
+        "x" : 1307.7679443359375,
+        "y" : 1302.5418701171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "CMP_average_cDC_CD8_" : 0.885839874,
+        "CMP_average_cDC_CD8_" : 4.14070495,
+        "CLP_average_cDC_CD8_" : 0.699598579,
+        "CLP_average_CDP" : 0.750388472,
+        "CLP_average_cDC_CD8_" : 3.270152296,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 6.239373941,
+        "shared_name" : "HK3",
+        "CLP_average_pDC_CD8_" : 5.140961823,
+        "CDP_average_pDC_CD8_" : 6.851067171,
+        "CLP_average_CMP" : 0.789757381,
+        "name" : "HK3",
+        "CMP_average_pDC_CD8_" : 6.509545778,
+        "CDP_average_cDC_CD8_" : 0.932315201,
+        "pDC_CD8_cDC_CD8_" : 0.698458828,
+        "SUID" : 182,
+        "CMP_average_pDC_CD8_" : 5.928345071,
+        "CDP_average_cDC_CD8_" : 4.35794581,
+        "pDC_CD8_cDC_CD8_" : 0.136083208,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 4.681954276,
+        "selected" : false,
+        "canonicalName" : "node71"
+      },
+      "position" : {
+        "x" : 339.44512939453125,
+        "y" : -4.642181535293595
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Linolenate",
+        "name" : "Linolenate",
+        "SUID" : 181,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node72"
+      },
+      "position" : {
+        "x" : 1581.292724609375,
+        "y" : 965.1293334960938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C01220",
+        "name" : "C01220",
+        "SUID" : 180,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node73"
+      },
+      "position" : {
+        "x" : 1197.0633544921875,
+        "y" : 936.269287109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "CMP_average_cDC_CD8_" : 0.758334309,
+        "CMP_average_cDC_CD8_" : 1.464680855,
+        "CLP_average_cDC_CD8_" : 0.515632,
+        "CLP_average_CDP" : 0.405965526,
+        "CLP_average_cDC_CD8_" : 0.995914743,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 0.758476133,
+        "shared_name" : "GBA",
+        "CLP_average_pDC_CD8_" : 0.313218367,
+        "CDP_average_pDC_CD8_" : 0.771539322,
+        "CLP_average_CMP" : 0.679953411,
+        "name" : "GBA",
+        "CMP_average_pDC_CD8_" : 0.460646806,
+        "CDP_average_cDC_CD8_" : 1.270137405,
+        "pDC_CD8_cDC_CD8_" : 3.234380327,
+        "SUID" : 179,
+        "CMP_average_pDC_CD8_" : 0.452847441,
+        "CDP_average_cDC_CD8_" : 2.453200282,
+        "pDC_CD8_cDC_CD8_" : 1.646238071,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.307915162,
+        "selected" : false,
+        "canonicalName" : "node74"
+      },
+      "position" : {
+        "x" : 1033.08544921875,
+        "y" : 1287.91455078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Glucosylceramide",
+        "name" : "Glucosylceramide",
+        "SUID" : 178,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node75"
+      },
+      "position" : {
+        "x" : 1071.603759765625,
+        "y" : 1333.8189697265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "CMP_average_cDC_CD8_" : 0.461132,
+        "CMP_average_cDC_CD8_" : 1.545923012,
+        "CLP_average_cDC_CD8_" : 0.296188844,
+        "CLP_average_CDP" : 0.245128237,
+        "CLP_average_cDC_CD8_" : 0.992958957,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 1.597641579,
+        "shared_name" : "PFKP",
+        "CLP_average_pDC_CD8_" : 0.421328263,
+        "CDP_average_pDC_CD8_" : 1.718807546,
+        "CLP_average_CMP" : 0.642308155,
+        "name" : "PFKP",
+        "CMP_average_pDC_CD8_" : 0.655959697,
+        "CDP_average_cDC_CD8_" : 1.208301615,
+        "pDC_CD8_cDC_CD8_" : 2.535470734,
+        "SUID" : 177,
+        "CMP_average_pDC_CD8_" : 0.609718342,
+        "CDP_average_cDC_CD8_" : 4.050773467,
+        "pDC_CD8_cDC_CD8_" : 0.702988312,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.391627063,
+        "selected" : false,
+        "canonicalName" : "node76"
+      },
+      "position" : {
+        "x" : 493.0528869628906,
+        "y" : 187.49848604498789
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "3-Aminopropanal",
+        "name" : "3-Aminopropanal",
+        "SUID" : 176,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node77"
+      },
+      "position" : {
+        "x" : 644.7145385742188,
+        "y" : 1219.434326171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "CMP_average_cDC_CD8_" : 1.691831133,
+        "CMP_average_cDC_CD8_" : 1.562237197,
+        "CLP_average_cDC_CD8_" : 1.177404922,
+        "CLP_average_CDP" : 1.192719504,
+        "CLP_average_cDC_CD8_" : 1.087215935,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 0.563187522,
+        "shared_name" : "ETNK1",
+        "CLP_average_pDC_CD8_" : 0.697132393,
+        "CDP_average_pDC_CD8_" : 0.584489807,
+        "CLP_average_CMP" : 0.69593525,
+        "name" : "ETNK1",
+        "CMP_average_pDC_CD8_" : 1.001720192,
+        "CDP_average_cDC_CD8_" : 0.987159947,
+        "pDC_CD8_cDC_CD8_" : 1.618543828,
+        "SUID" : 175,
+        "CMP_average_pDC_CD8_" : 0.96521155,
+        "CDP_average_cDC_CD8_" : 0.911543687,
+        "pDC_CD8_cDC_CD8_" : 1.688925855,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.671724742,
+        "selected" : false,
+        "canonicalName" : "node78"
+      },
+      "position" : {
+        "x" : 1505.978271484375,
+        "y" : 1146.204345703125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "CMP_average_cDC_CD8_" : 2.443883766,
+        "CMP_average_cDC_CD8_" : 4.848212519,
+        "CLP_average_cDC_CD8_" : 1.398541489,
+        "CLP_average_CDP" : 0.899303202,
+        "CLP_average_cDC_CD8_" : 2.774447153,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 2.692164623,
+        "shared_name" : "PPA1",
+        "CLP_average_pDC_CD8_" : 2.611789097,
+        "CDP_average_pDC_CD8_" : 2.904236404,
+        "CLP_average_CMP" : 0.572261868,
+        "name" : "PPA1",
+        "CMP_average_pDC_CD8_" : 4.563975415,
+        "CDP_average_cDC_CD8_" : 1.555139008,
+        "pDC_CD8_cDC_CD8_" : 1.145958009,
+        "SUID" : 174,
+        "CMP_average_pDC_CD8_" : 4.230706955,
+        "CDP_average_cDC_CD8_" : 3.085107611,
+        "pDC_CD8_cDC_CD8_" : 0.535472597,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 2.421072266,
+        "selected" : false,
+        "canonicalName" : "node79"
+      },
+      "position" : {
+        "x" : 819.9619140625,
+        "y" : 1873.466552734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "CMP_average_cDC_CD8_" : 1.480362138,
+        "CMP_average_cDC_CD8_" : 1.088904078,
+        "CLP_average_cDC_CD8_" : 9.824952702,
+        "CLP_average_CDP" : 4.985132463,
+        "CLP_average_cDC_CD8_" : 7.226901304,
+        "node_fillColor" : "#009966",
+        "CDP_average_pDC_CD8_" : 0.442979382,
+        "shared_name" : "MGST2",
+        "CLP_average_pDC_CD8_" : 1.866490069,
+        "CDP_average_pDC_CD8_" : 0.374411329,
+        "CLP_average_CMP" : 6.636857596,
+        "name" : "MGST2",
+        "CMP_average_pDC_CD8_" : 0.281230996,
+        "CDP_average_cDC_CD8_" : 1.97085088,
+        "pDC_CD8_cDC_CD8_" : 3.272592327,
+        "SUID" : 173,
+        "CMP_average_pDC_CD8_" : 0.33273441,
+        "CDP_average_cDC_CD8_" : 1.449690928,
+        "pDC_CD8_cDC_CD8_" : 5.263865513,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 2.208310899,
+        "selected" : false,
+        "canonicalName" : "node80"
+      },
+      "position" : {
+        "x" : 1082.1355040118217,
+        "y" : 428.73479826946266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "CMP_average_cDC_CD8_" : 0.213127009,
+        "CMP_average_cDC_CD8_" : 0.351009536,
+        "CLP_average_cDC_CD8_" : 0.229874387,
+        "CLP_average_CDP" : 0.694858387,
+        "CLP_average_cDC_CD8_" : 0.378591631,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 0.232531055,
+        "shared_name" : "GNS",
+        "CLP_average_pDC_CD8_" : 0.155070156,
+        "CDP_average_pDC_CD8_" : 0.223167999,
+        "CLP_average_CMP" : 1.078579332,
+        "name" : "GNS",
+        "CMP_average_pDC_CD8_" : 0.143772601,
+        "CDP_average_cDC_CD8_" : 0.330821921,
+        "pDC_CD8_cDC_CD8_" : 2.343115751,
+        "SUID" : 172,
+        "CMP_average_pDC_CD8_" : 0.149804608,
+        "CDP_average_cDC_CD8_" : 0.544847177,
+        "pDC_CD8_cDC_CD8_" : 1.482389604,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.161576154,
+        "selected" : false,
+        "canonicalName" : "node81"
+      },
+      "position" : {
+        "x" : 1132.466552734375,
+        "y" : 1560.9619140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "R-S-Glutathione",
+        "name" : "R-S-Glutathione",
+        "SUID" : 171,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node82"
+      },
+      "position" : {
+        "x" : 854.2456665039062,
+        "y" : 339.7101135253906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Vitamin_PP",
+        "name" : "Vitamin_PP",
+        "SUID" : 170,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node83"
+      },
+      "position" : {
+        "x" : 478.434326171875,
+        "y" : 1676.285400390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "CMP_average_cDC_CD8_" : 2.080086875,
+        "CMP_average_cDC_CD8_" : 2.115845757,
+        "CLP_average_cDC_CD8_" : 1.874027064,
+        "CLP_average_CDP" : 0.65111523,
+        "CLP_average_cDC_CD8_" : 1.906243562,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 2.417994988,
+        "shared_name" : "ECHS1",
+        "CLP_average_pDC_CD8_" : 1.436293094,
+        "CDP_average_pDC_CD8_" : 2.205896941,
+        "CLP_average_CMP" : 0.900936921,
+        "name" : "ECHS1",
+        "CMP_average_pDC_CD8_" : 1.594221594,
+        "CDP_average_cDC_CD8_" : 2.878180356,
+        "pDC_CD8_cDC_CD8_" : 1.210779725,
+        "SUID" : 169,
+        "CMP_average_pDC_CD8_" : 1.747506763,
+        "CDP_average_cDC_CD8_" : 2.927659305,
+        "pDC_CD8_cDC_CD8_" : 1.304766466,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 1.574393363,
+        "selected" : false,
+        "canonicalName" : "node84"
+      },
+      "position" : {
+        "x" : 360.10394287109375,
+        "y" : 1012.8629150390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "CMP_average_cDC_CD8_" : 0.302330572,
+        "CMP_average_cDC_CD8_" : 2.192468163,
+        "CLP_average_cDC_CD8_" : 0.208355847,
+        "CLP_average_CDP" : 0.474932535,
+        "CLP_average_cDC_CD8_" : 1.510973765,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.496564547,
+        "shared_name" : "GUSB",
+        "CLP_average_pDC_CD8_" : 0.74540101,
+        "CDP_average_pDC_CD8_" : 1.569488201,
+        "CLP_average_CMP" : 0.689165658,
+        "name" : "GUSB",
+        "CMP_average_pDC_CD8_" : 1.081599179,
+        "CDP_average_cDC_CD8_" : 0.438706199,
+        "pDC_CD8_cDC_CD8_" : 2.12583498,
+        "SUID" : 168,
+        "CMP_average_pDC_CD8_" : 1.031344476,
+        "CDP_average_cDC_CD8_" : 3.181449263,
+        "pDC_CD8_cDC_CD8_" : 0.279521821,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.710767195,
+        "selected" : false,
+        "canonicalName" : "node85"
+      },
+      "position" : {
+        "x" : 1101.565673828125,
+        "y" : 1676.285400390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "CMP_average_cDC_CD8_" : 1.247330856,
+        "CMP_average_cDC_CD8_" : 0.924553564,
+        "CLP_average_cDC_CD8_" : 0.921610075,
+        "CLP_average_CDP" : 0.820151174,
+        "CLP_average_cDC_CD8_" : 0.683120982,
+        "node_fillColor" : "#FF9933",
+        "CDP_average_pDC_CD8_" : 1.115707261,
+        "shared_name" : "SULT1E1",
+        "CLP_average_pDC_CD8_" : 0.954130143,
+        "CDP_average_pDC_CD8_" : 1.163358871,
+        "CLP_average_CMP" : 0.738865771,
+        "name" : "SULT1E1",
+        "CMP_average_pDC_CD8_" : 1.291344356,
+        "CDP_average_cDC_CD8_" : 1.12370756,
+        "pDC_CD8_cDC_CD8_" : 0.74654064,
+        "SUID" : 167,
+        "CMP_average_pDC_CD8_" : 1.238450413,
+        "CDP_average_cDC_CD8_" : 0.832920813,
+        "pDC_CD8_cDC_CD8_" : 0.965916527,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.915048619,
+        "selected" : false,
+        "canonicalName" : "node86"
+      },
+      "position" : {
+        "x" : 935.285400390625,
+        "y" : 1842.565673828125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "HCO3-",
+        "name" : "HCO3-",
+        "SUID" : 166,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node87"
+      },
+      "position" : {
+        "x" : 315.6081237792969,
+        "y" : 697.1209106445312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "node_fillColor" : "#00FFFF",
+        "shared_name" : "4.DEPHOSPHORYLATION",
+        "name" : "4.DEPHOSPHORYLATION",
+        "SUID" : 165,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node88"
+      },
+      "position" : {
+        "x" : 75.0,
+        "y" : 2153.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "CMP_average_cDC_CD8_" : 0.551666353,
+        "CMP_average_cDC_CD8_" : 1.008263843,
+        "CLP_average_cDC_CD8_" : 0.31147826,
+        "CLP_average_CDP" : 0.366549447,
+        "CLP_average_cDC_CD8_" : 0.569279359,
+        "node_fillColor" : "#CCCCCC",
+        "CDP_average_pDC_CD8_" : 2.530357982,
+        "shared_name" : "MTHFD2",
+        "CLP_average_pDC_CD8_" : 0.916524867,
+        "CDP_average_pDC_CD8_" : 2.500412628,
+        "CLP_average_CMP" : 0.564613481,
+        "name" : "MTHFD2",
+        "CMP_average_pDC_CD8_" : 1.623278397,
+        "CDP_average_cDC_CD8_" : 0.849757823,
+        "pDC_CD8_cDC_CD8_" : 0.613777411,
+        "SUID" : 164,
+        "CMP_average_pDC_CD8_" : 1.642719047,
+        "CDP_average_cDC_CD8_" : 1.553076571,
+        "pDC_CD8_cDC_CD8_" : 0.339847037,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.92750132,
+        "selected" : false,
+        "canonicalName" : "node89"
+      },
+      "position" : {
+        "x" : 0.7753438949584961,
+        "y" : 954.377197265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "3-Methylglutaconyl-CoA",
+        "name" : "3-Methylglutaconyl-CoA",
+        "SUID" : 163,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node90"
+      },
+      "position" : {
+        "x" : 425.73577880859375,
+        "y" : 733.5992431640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C01272",
+        "name" : "C01272",
+        "SUID" : 162,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node91"
+      },
+      "position" : {
+        "x" : 1296.0506591796875,
+        "y" : 1016.8355712890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "1-Alkyl-2-acylglycerol",
+        "name" : "1-Alkyl-2-acylglycerol",
+        "SUID" : 161,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node92"
+      },
+      "position" : {
+        "x" : 1250.3341064453125,
+        "y" : 1201.8050537109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Adenine",
+        "name" : "Adenine",
+        "SUID" : 160,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node93"
+      },
+      "position" : {
+        "x" : 447.5334777832031,
+        "y" : 1501.0380859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Fatty_acid",
+        "name" : "Fatty_acid",
+        "SUID" : 159,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node94"
+      },
+      "position" : {
+        "x" : 760.0380859375,
+        "y" : 1188.533447265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "CMP_average_cDC_CD8_" : 0.470200932,
+        "CMP_average_cDC_CD8_" : 1.542200621,
+        "CLP_average_cDC_CD8_" : 0.421049228,
+        "CLP_average_CDP" : 0.75025932,
+        "CLP_average_cDC_CD8_" : 1.38098914,
+        "node_fillColor" : "#FFFFFF",
+        "CDP_average_pDC_CD8_" : 1.007640657,
+        "shared_name" : "NAMPT",
+        "CLP_average_pDC_CD8_" : 0.784894419,
+        "CDP_average_pDC_CD8_" : 1.046164171,
+        "CLP_average_CMP" : 0.895466596,
+        "name" : "NAMPT",
+        "CMP_average_pDC_CD8_" : 0.876520043,
+        "CDP_average_cDC_CD8_" : 0.561204929,
+        "pDC_CD8_cDC_CD8_" : 1.826725041,
+        "SUID" : 158,
+        "CMP_average_pDC_CD8_" : 0.844243434,
+        "CDP_average_cDC_CD8_" : 1.84068242,
+        "pDC_CD8_cDC_CD8_" : 0.536440593,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.755991794,
+        "selected" : false,
+        "canonicalName" : "node95"
+      },
+      "position" : {
+        "x" : 508.396240234375,
+        "y" : 1728.1810302734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "CMP_average_cDC_CD8_" : 3.538046338,
+        "CMP_average_cDC_CD8_" : 1.58160131,
+        "CLP_average_cDC_CD8_" : 4.807646383,
+        "CLP_average_CDP" : 2.002731491,
+        "CLP_average_cDC_CD8_" : 2.149146475,
+        "node_fillColor" : "#990099",
+        "CDP_average_pDC_CD8_" : 0.46868581,
+        "shared_name" : "ENTPD4",
+        "CLP_average_pDC_CD8_" : 0.886620538,
+        "CDP_average_pDC_CD8_" : 0.442705646,
+        "CLP_average_CMP" : 1.358842119,
+        "name" : "ENTPD4",
+        "CMP_average_pDC_CD8_" : 0.652482379,
+        "CDP_average_cDC_CD8_" : 2.400544658,
+        "pDC_CD8_cDC_CD8_" : 2.289609847,
+        "SUID" : 157,
+        "CMP_average_pDC_CD8_" : 0.690773283,
+        "CDP_average_cDC_CD8_" : 1.073107646,
+        "pDC_CD8_cDC_CD8_" : 5.422439677,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.938651831,
+        "selected" : false,
+        "canonicalName" : "node96"
+      },
+      "position" : {
+        "x" : 643.5265502929688,
+        "y" : 2077.646484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "node_fillColor" : "#000000",
+        "shared_name" : "11.ELECTRON_TRANSPORT_CHAIN",
+        "name" : "11.ELECTRON_TRANSPORT_CHAIN",
+        "SUID" : 156,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node97"
+      },
+      "position" : {
+        "x" : 150.0,
+        "y" : 2153.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "CMP_average_cDC_CD8_" : 3.956248258,
+        "CMP_average_cDC_CD8_" : 3.296798066,
+        "CLP_average_cDC_CD8_" : 2.673527606,
+        "CLP_average_CDP" : 1.081330082,
+        "CLP_average_cDC_CD8_" : 2.227888663,
+        "node_fillColor" : "#CCCCCC",
+        "CDP_average_pDC_CD8_" : 3.157956282,
+        "shared_name" : "MTHFD1",
+        "CLP_average_pDC_CD8_" : 3.083368627,
+        "CDP_average_pDC_CD8_" : 2.851459215,
+        "CLP_average_CMP" : 0.675773468,
+        "name" : "MTHFD1",
+        "CMP_average_pDC_CD8_" : 4.562725191,
+        "CDP_average_cDC_CD8_" : 2.472443568,
+        "pDC_CD8_cDC_CD8_" : 0.652422733,
+        "SUID" : 155,
+        "CMP_average_pDC_CD8_" : 5.053162466,
+        "CDP_average_cDC_CD8_" : 2.060322468,
+        "pDC_CD8_cDC_CD8_" : 0.867080109,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 3.414793125,
+        "selected" : false,
+        "canonicalName" : "node98"
+      },
+      "position" : {
+        "x" : 133.68141174316406,
+        "y" : 1051.48095703125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "100048492",
+        "name" : "100048492",
+        "SUID" : 154,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node99"
+      },
+      "position" : {
+        "x" : 207.36663818359375,
+        "y" : 875.9620361328125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "CMP_average_cDC_CD8_" : 1.24241296,
+        "CMP_average_cDC_CD8_" : 1.036430519,
+        "CLP_average_cDC_CD8_" : 0.73414784,
+        "CLP_average_CDP" : 1.103543574,
+        "CLP_average_cDC_CD8_" : 0.612431817,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 0.672669849,
+        "shared_name" : "PLA2G2D",
+        "CLP_average_pDC_CD8_" : 0.729568139,
+        "CDP_average_pDC_CD8_" : 0.66111403,
+        "CLP_average_CMP" : 0.590904847,
+        "name" : "PLA2G2D",
+        "CMP_average_pDC_CD8_" : 1.23466264,
+        "CDP_average_cDC_CD8_" : 0.665264026,
+        "pDC_CD8_cDC_CD8_" : 0.825023459,
+        "SUID" : 153,
+        "CMP_average_pDC_CD8_" : 1.256243695,
+        "CDP_average_cDC_CD8_" : 0.554968405,
+        "pDC_CD8_cDC_CD8_" : 1.006277277,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.742320489,
+        "selected" : false,
+        "canonicalName" : "node100"
+      },
+      "position" : {
+        "x" : 1528.00390625,
+        "y" : 956.2781982421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "CMP_average_cDC_CD8_" : 6.334651081,
+        "CMP_average_cDC_CD8_" : 3.470048188,
+        "CLP_average_cDC_CD8_" : 2.865648046,
+        "CLP_average_CDP" : 1.299597289,
+        "CLP_average_cDC_CD8_" : 1.569768671,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 3.158251293,
+        "shared_name" : "PLA2G4A",
+        "CLP_average_pDC_CD8_" : 4.128679877,
+        "CDP_average_pDC_CD8_" : 3.176891728,
+        "CLP_average_CMP" : 0.45237662,
+        "name" : "PLA2G4A",
+        "CMP_average_pDC_CD8_" : 9.12664292,
+        "CDP_average_cDC_CD8_" : 2.205027719,
+        "pDC_CD8_cDC_CD8_" : 0.382454855,
+        "SUID" : 152,
+        "CMP_average_pDC_CD8_" : 9.073092278,
+        "CDP_average_cDC_CD8_" : 1.207888539,
+        "pDC_CD8_cDC_CD8_" : 0.694083371,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 4.104454818,
+        "selected" : false,
+        "canonicalName" : "node101"
+      },
+      "position" : {
+        "x" : 1572.4415283203125,
+        "y" : 1018.418212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "CMP_average_cDC_CD8_" : 1.571286229,
+        "CMP_average_cDC_CD8_" : 1.601348011,
+        "CLP_average_cDC_CD8_" : 0.905135242,
+        "CLP_average_CDP" : 0.99834025,
+        "CLP_average_cDC_CD8_" : 0.922452252,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 0.806198729,
+        "shared_name" : "PNLIPRP1",
+        "CLP_average_pDC_CD8_" : 1.044866976,
+        "CDP_average_pDC_CD8_" : 1.046604077,
+        "CLP_average_CMP" : 0.576047334,
+        "name" : "PNLIPRP1",
+        "CMP_average_pDC_CD8_" : 1.813856112,
+        "CDP_average_cDC_CD8_" : 0.906640038,
+        "pDC_CD8_cDC_CD8_" : 1.146101828,
+        "SUID" : 151,
+        "CMP_average_pDC_CD8_" : 1.397212683,
+        "CDP_average_cDC_CD8_" : 0.923985837,
+        "pDC_CD8_cDC_CD8_" : 0.866268398,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.804860641,
+        "selected" : false,
+        "canonicalName" : "node102"
+      },
+      "position" : {
+        "x" : 819.9619140625,
+        "y" : 1188.533447265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "CMP_average_cDC_CD8_" : 1.321430901,
+        "CMP_average_cDC_CD8_" : 2.750793838,
+        "CLP_average_cDC_CD8_" : 0.811329107,
+        "CLP_average_CDP" : 0.712334314,
+        "CLP_average_cDC_CD8_" : 1.688926079,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 0.807488658,
+        "shared_name" : "ACADL",
+        "CLP_average_pDC_CD8_" : 0.565101137,
+        "CDP_average_pDC_CD8_" : 0.79330888,
+        "CLP_average_CMP" : 0.613977702,
+        "name" : "ACADL",
+        "CMP_average_pDC_CD8_" : 0.920393583,
+        "CDP_average_cDC_CD8_" : 1.138972378,
+        "pDC_CD8_cDC_CD8_" : 2.936231852,
+        "SUID" : 150,
+        "CMP_average_pDC_CD8_" : 0.936844901,
+        "CDP_average_cDC_CD8_" : 2.370973917,
+        "pDC_CD8_cDC_CD8_" : 1.435723721,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.575201879,
+        "selected" : false,
+        "canonicalName" : "node103"
+      },
+      "position" : {
+        "x" : 290.7608642578125,
+        "y" : 956.6105346679688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "630729",
+        "name" : "630729",
+        "SUID" : 149,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node104"
+      },
+      "position" : {
+        "x" : 644.346199333419,
+        "y" : 189.66633545671084
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "GSH",
+        "name" : "GSH",
+        "SUID" : 148,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node105"
+      },
+      "position" : {
+        "x" : 739.2261352539062,
+        "y" : 324.12884521484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "GMP",
+        "name" : "GMP",
+        "SUID" : 147,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node106"
+      },
+      "position" : {
+        "x" : 701.0245361328125,
+        "y" : 1863.060791015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "C05212",
+        "name" : "C05212",
+        "SUID" : 146,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node107"
+      },
+      "position" : {
+        "x" : 1519.1527099609375,
+        "y" : 1009.5670166015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "G06780",
+        "name" : "G06780",
+        "SUID" : 145,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node108"
+      },
+      "position" : {
+        "x" : 1132.466552734375,
+        "y" : 1501.0380859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "CMP_average_cDC_CD8_" : 0.700289217,
+        "CMP_average_cDC_CD8_" : 0.772875474,
+        "CLP_average_cDC_CD8_" : 0.748515305,
+        "CLP_average_CDP" : 0.391138578,
+        "CLP_average_cDC_CD8_" : 0.826100284,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 5.616141071,
+        "shared_name" : "HK2",
+        "CLP_average_pDC_CD8_" : 2.290866107,
+        "CDP_average_pDC_CD8_" : 5.85691679,
+        "CLP_average_CMP" : 1.068865958,
+        "name" : "HK2",
+        "CMP_average_pDC_CD8_" : 2.143267908,
+        "CDP_average_cDC_CD8_" : 1.913683147,
+        "pDC_CD8_cDC_CD8_" : 0.376066034,
+        "SUID" : 144,
+        "CMP_average_pDC_CD8_" : 2.055158944,
+        "CDP_average_cDC_CD8_" : 2.112039901,
+        "pDC_CD8_cDC_CD8_" : 0.326739002,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 2.196689434,
+        "selected" : false,
+        "canonicalName" : "node109"
+      },
+      "position" : {
+        "x" : 816.6631242232819,
+        "y" : 41.28411865234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "CMP_average_cDC_CD8_" : 0.775839973,
+        "CMP_average_cDC_CD8_" : 0.8074062,
+        "CLP_average_cDC_CD8_" : 1.227853811,
+        "CLP_average_CDP" : 1.082829313,
+        "CLP_average_cDC_CD8_" : 1.277810907,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 0.496692618,
+        "shared_name" : "INPP5K",
+        "CLP_average_pDC_CD8_" : 0.542797914,
+        "CDP_average_pDC_CD8_" : 0.501277447,
+        "CLP_average_CMP" : 1.582612206,
+        "name" : "INPP5K",
+        "CMP_average_pDC_CD8_" : 0.342975943,
+        "CDP_average_cDC_CD8_" : 1.133931079,
+        "pDC_CD8_cDC_CD8_" : 2.375849255,
+        "SUID" : 143,
+        "CMP_average_pDC_CD8_" : 0.339838985,
+        "CDP_average_cDC_CD8_" : 1.180066786,
+        "pDC_CD8_cDC_CD8_" : 2.262082775,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.537833326,
+        "selected" : false,
+        "canonicalName" : "node110"
+      },
+      "position" : {
+        "x" : 1243.1268310546875,
+        "y" : 1006.013427734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "CMP_average_cDC_CD8_" : 1.301836325,
+        "CMP_average_cDC_CD8_" : 0.58638267,
+        "CLP_average_cDC_CD8_" : 0.866418539,
+        "CLP_average_CDP" : 0.865408011,
+        "CLP_average_cDC_CD8_" : 0.390258596,
+        "node_fillColor" : "#0000FF",
+        "CDP_average_pDC_CD8_" : 1.625902834,
+        "shared_name" : "MDH2",
+        "CLP_average_pDC_CD8_" : 1.464272317,
+        "CDP_average_pDC_CD8_" : 1.692002268,
+        "CLP_average_CMP" : 0.665535691,
+        "name" : "MDH2",
+        "CMP_average_pDC_CD8_" : 2.200140933,
+        "CDP_average_cDC_CD8_" : 1.001167689,
+        "pDC_CD8_cDC_CD8_" : 0.277355625,
+        "SUID" : 142,
+        "CMP_average_pDC_CD8_" : 2.114190652,
+        "CDP_average_cDC_CD8_" : 0.450953297,
+        "pDC_CD8_cDC_CD8_" : 0.591705879,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 1.407069337,
+        "selected" : false,
+        "canonicalName" : "node111"
+      },
+      "position" : {
+        "x" : 245.95040893554688,
+        "y" : 465.55987548828125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "CMP_average_cDC_CD8_" : 1.324513391,
+        "CMP_average_cDC_CD8_" : 1.152502261,
+        "CLP_average_cDC_CD8_" : 0.854693839,
+        "CLP_average_CDP" : 0.972188567,
+        "CLP_average_cDC_CD8_" : 0.743696959,
+        "node_fillColor" : "#00CC00",
+        "CDP_average_pDC_CD8_" : 0.927313785,
+        "shared_name" : "PLA2G4D",
+        "CLP_average_pDC_CD8_" : 0.970930504,
+        "CDP_average_pDC_CD8_" : 0.998705947,
+        "CLP_average_CMP" : 0.645288938,
+        "name" : "PLA2G4D",
+        "CMP_average_pDC_CD8_" : 1.504644582,
+        "CDP_average_cDC_CD8_" : 0.879144095,
+        "pDC_CD8_cDC_CD8_" : 0.824933196,
+        "SUID" : 141,
+        "CMP_average_pDC_CD8_" : 1.397085565,
+        "CDP_average_cDC_CD8_" : 0.764971925,
+        "pDC_CD8_cDC_CD8_" : 0.880283228,
+        "node_shape" : "triangle",
+        "CLP_average_pDC_CD8_" : 0.90152386,
+        "selected" : false,
+        "canonicalName" : "node112"
+      },
+      "position" : {
+        "x" : 1692.00830078125,
+        "y" : 953.4825439453125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "CMP_average_cDC_CD8_" : 0.030382536,
+        "CMP_average_cDC_CD8_" : 0.043397159,
+        "CLP_average_cDC_CD8_" : 0.021029839,
+        "CLP_average_CDP" : 0.706378436,
+        "CLP_average_cDC_CD8_" : 0.030038152,
+        "node_fillColor" : "#009966",
+        "CDP_average_pDC_CD8_" : 1.009393786,
+        "shared_name" : "ANPEP",
+        "CLP_average_pDC_CD8_" : 0.849043984,
+        "CDP_average_pDC_CD8_" : 1.201967586,
+        "CLP_average_CMP" : 0.69216864,
+        "name" : "ANPEP",
+        "CMP_average_pDC_CD8_" : 1.226643241,
+        "CDP_average_cDC_CD8_" : 0.029771349,
+        "pDC_CD8_cDC_CD8_" : 0.042128419,
+        "SUID" : 140,
+        "CMP_average_pDC_CD8_" : 1.03011602,
+        "CDP_average_cDC_CD8_" : 0.042524164,
+        "pDC_CD8_cDC_CD8_" : 0.024768845,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.713014004,
+        "selected" : false,
+        "canonicalName" : "node113"
+      },
+      "position" : {
+        "x" : 1050.2754783027685,
+        "y" : 189.6037173953091
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Estrone",
+        "name" : "Estrone",
+        "SUID" : 139,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node114"
+      },
+      "position" : {
+        "x" : 987.1810302734375,
+        "y" : 1812.603759765625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "R-S-Cysteinylglycine",
+        "name" : "R-S-Cysteinylglycine",
+        "SUID" : 138,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node115"
+      },
+      "position" : {
+        "x" : 984.9322107921894,
+        "y" : 239.63917873065498
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "node_fillColor" : "#0000FF",
+        "shared_name" : "2.CARBOHYDRATE_METABOLIC_PROCESS",
+        "name" : "2.CARBOHYDRATE_METABOLIC_PROCESS",
+        "SUID" : 137,
+        "node_shape" : "hexagon",
+        "selected" : false,
+        "canonicalName" : "node116"
+      },
+      "position" : {
+        "x" : 225.0,
+        "y" : 2153.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Spermine",
+        "name" : "Spermine",
+        "SUID" : 136,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node117"
+      },
+      "position" : {
+        "x" : 546.9146118164062,
+        "y" : 1287.91455078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "CMP_average_cDC_CD8_" : 4.131042933,
+        "CMP_average_cDC_CD8_" : 5.8207455,
+        "CLP_average_cDC_CD8_" : 1.170671067,
+        "CLP_average_CDP" : 0.845315437,
+        "CLP_average_cDC_CD8_" : 1.649505574,
+        "node_fillColor" : "#00FFFF",
+        "CDP_average_pDC_CD8_" : 0.785604075,
+        "shared_name" : "NT5C3",
+        "CLP_average_pDC_CD8_" : 0.781979247,
+        "CDP_average_pDC_CD8_" : 0.925073899,
+        "CLP_average_CMP" : 0.283383902,
+        "name" : "NT5C3",
+        "CMP_average_pDC_CD8_" : 2.759434255,
+        "CDP_average_cDC_CD8_" : 1.384892568,
+        "pDC_CD8_cDC_CD8_" : 2.483883714,
+        "SUID" : 135,
+        "CMP_average_pDC_CD8_" : 2.343404994,
+        "CDP_average_cDC_CD8_" : 1.951349167,
+        "pDC_CD8_cDC_CD8_" : 1.497061554,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.664083252,
+        "selected" : false,
+        "canonicalName" : "node118"
+      },
+      "position" : {
+        "x" : 707.6619262695312,
+        "y" : 1732.7735595703125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "CMP_average_cDC_CD8_" : 3.055723636,
+        "CMP_average_cDC_CD8_" : 4.315448212,
+        "CLP_average_cDC_CD8_" : 1.766275092,
+        "CLP_average_CDP" : 0.55068964,
+        "CLP_average_cDC_CD8_" : 2.494423449,
+        "node_fillColor" : "#000000",
+        "CDP_average_pDC_CD8_" : 1.462281155,
+        "shared_name" : "NDUFV1",
+        "CLP_average_pDC_CD8_" : 0.798646823,
+        "CDP_average_pDC_CD8_" : 1.450266657,
+        "CLP_average_CMP" : 0.578021871,
+        "name" : "NDUFV1",
+        "CMP_average_pDC_CD8_" : 1.381689627,
+        "CDP_average_cDC_CD8_" : 3.207387546,
+        "pDC_CD8_cDC_CD8_" : 3.097650324,
+        "SUID" : 134,
+        "CMP_average_pDC_CD8_" : 1.39313601,
+        "CDP_average_cDC_CD8_" : 4.529635694,
+        "pDC_CD8_cDC_CD8_" : 2.211584698,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.805263083,
+        "selected" : false,
+        "canonicalName" : "node119"
+      },
+      "position" : {
+        "x" : 61.42702424581293,
+        "y" : 677.460037815736
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "CMP_average_cDC_CD8_" : 3.448521447,
+        "CMP_average_cDC_CD8_" : 4.212715827,
+        "CLP_average_cDC_CD8_" : 8.138726141,
+        "CLP_average_CDP" : 0.72719581,
+        "CLP_average_cDC_CD8_" : 9.942272639,
+        "node_fillColor" : "#FF0033",
+        "CDP_average_pDC_CD8_" : 1.131976181,
+        "shared_name" : "FADS2",
+        "CLP_average_pDC_CD8_" : 0.827081128,
+        "CDP_average_pDC_CD8_" : 1.13735684,
+        "CLP_average_CMP" : 2.360062498,
+        "name" : "FADS2",
+        "CMP_average_pDC_CD8_" : 0.350448824,
+        "CDP_average_cDC_CD8_" : 11.19193212,
+        "pDC_CD8_cDC_CD8_" : 12.07805525,
+        "SUID" : 133,
+        "CMP_average_pDC_CD8_" : 0.348790905,
+        "CDP_average_cDC_CD8_" : 13.67207086,
+        "pDC_CD8_cDC_CD8_" : 9.840299657,
+        "node_shape" : "roundrect",
+        "CLP_average_pDC_CD8_" : 0.823168336,
+        "selected" : false,
+        "canonicalName" : "node120"
+      },
+      "position" : {
+        "x" : 1600.82861328125,
+        "y" : 876.580810546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "node_fillColor" : "#FFFFFF",
+        "shared_name" : "Melatonin",
+        "name" : "Melatonin",
+        "SUID" : 132,
+        "node_shape" : "ellipse",
+        "selected" : false,
+        "canonicalName" : "node121"
+      },
+      "position" : {
+        "x" : 777.8924560546875,
+        "y" : 635.9590454101562
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "374",
+        "source" : "252",
+        "target" : "250",
+        "shared_name" : "MCCC1 (DirectedEdge) AUH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC1 (DirectedEdge) AUH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 374,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "373",
+        "source" : "251",
+        "target" : "188",
+        "shared_name" : "Phosphoethanolamine (DirectedEdge) SGPL1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Phosphoethanolamine (DirectedEdge) SGPL1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 373,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "372",
+        "source" : "250",
+        "target" : "163",
+        "shared_name" : "AUH (DirectedEdge) 3-Methylglutaconyl-CoA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "AUH (DirectedEdge) 3-Methylglutaconyl-CoA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 372,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "371",
+        "source" : "249",
+        "target" : "163",
+        "shared_name" : "MCCC2 (DirectedEdge) 3-Methylglutaconyl-CoA",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MCCC2 (DirectedEdge) 3-Methylglutaconyl-CoA",
+        "interaction" : "DirectedEdge",
+        "SUID" : 371,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "370",
+        "source" : "248",
+        "target" : "207",
+        "shared_name" : "PAF (DirectedEdge) LPCAT2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PAF (DirectedEdge) LPCAT2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 370,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "369",
+        "source" : "247",
+        "target" : "164",
+        "shared_name" : "10-Formyl-THF (DirectedEdge) MTHFD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "10-Formyl-THF (DirectedEdge) MTHFD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 369,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "source" : "247",
+        "target" : "155",
+        "shared_name" : "10-Formyl-THF (DirectedEdge) MTHFD1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "10-Formyl-THF (DirectedEdge) MTHFD1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 368,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "source" : "246",
+        "target" : "150",
+        "shared_name" : "(2E)-Decenoyl-CoA (DirectedEdge) ACADL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "(2E)-Decenoyl-CoA (DirectedEdge) ACADL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 367,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "source" : "246",
+        "target" : "214",
+        "shared_name" : "(2E)-Decenoyl-CoA (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "(2E)-Decenoyl-CoA (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 366,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "365",
+        "source" : "244",
+        "target" : "225",
+        "shared_name" : "C04063 (DirectedEdge) INPP1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C04063 (DirectedEdge) INPP1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 365,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "source" : "244",
+        "target" : "191",
+        "shared_name" : "C04063 (DirectedEdge) INPP4A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C04063 (DirectedEdge) INPP4A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 364,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "source" : "242",
+        "target" : "198",
+        "shared_name" : "4-Acetamidobutanal (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "4-Acetamidobutanal (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 363,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "source" : "242",
+        "target" : "194",
+        "shared_name" : "4-Acetamidobutanal (DirectedEdge) MAOB",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "4-Acetamidobutanal (DirectedEdge) MAOB",
+        "interaction" : "DirectedEdge",
+        "SUID" : 362,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "361",
+        "source" : "241",
+        "target" : "214",
+        "shared_name" : "C06002 (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C06002 (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 361,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "360",
+        "source" : "241",
+        "target" : "198",
+        "shared_name" : "C06002 (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C06002 (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 360,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "359",
+        "source" : "240",
+        "target" : "135",
+        "shared_name" : "NMN (DirectedEdge) NT5C3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NMN (DirectedEdge) NT5C3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 359,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "358",
+        "source" : "240",
+        "target" : "158",
+        "shared_name" : "NMN (DirectedEdge) NAMPT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "NMN (DirectedEdge) NAMPT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 358,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "237",
+        "target" : "135",
+        "shared_name" : "N-Ribosylnicotinamide (DirectedEdge) NT5C3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "N-Ribosylnicotinamide (DirectedEdge) NT5C3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 357,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "source" : "236",
+        "target" : "174",
+        "shared_name" : "PAPSS2 (DirectedEdge) PPA1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PAPSS2 (DirectedEdge) PPA1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 356,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "236",
+        "target" : "167",
+        "shared_name" : "PAPSS2 (DirectedEdge) SULT1E1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PAPSS2 (DirectedEdge) SULT1E1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 355,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "234",
+        "target" : "169",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) ECHS1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) ECHS1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 354,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "234",
+        "target" : "214",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) EHHADH",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) EHHADH",
+        "interaction" : "DirectedEdge",
+        "SUID" : 353,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "234",
+        "target" : "252",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) MCCC1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) MCCC1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 352,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "source" : "234",
+        "target" : "249",
+        "shared_name" : "3-Methylcrotonyl-CoA (DirectedEdge) MCCC2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Methylcrotonyl-CoA (DirectedEdge) MCCC2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 351,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "231",
+        "target" : "183",
+        "shared_name" : "Ceramide (DirectedEdge) GALC",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Ceramide (DirectedEdge) GALC",
+        "interaction" : "DirectedEdge",
+        "SUID" : 350,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "230",
+        "target" : "227",
+        "shared_name" : "MINPP1 (DirectedEdge) Ins(1,4,5)P3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MINPP1 (DirectedEdge) Ins(1,4,5)P3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 349,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "229",
+        "target" : "141",
+        "shared_name" : "Arachidonate (DirectedEdge) PLA2G4D",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Arachidonate (DirectedEdge) PLA2G4D",
+        "interaction" : "DirectedEdge",
+        "SUID" : 348,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "229",
+        "target" : "233",
+        "shared_name" : "Arachidonate (DirectedEdge) PLA2G12B",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Arachidonate (DirectedEdge) PLA2G12B",
+        "interaction" : "DirectedEdge",
+        "SUID" : 347,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "229",
+        "target" : "221",
+        "shared_name" : "Arachidonate (DirectedEdge) PTGS2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Arachidonate (DirectedEdge) PTGS2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 346,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "224",
+        "target" : "188",
+        "shared_name" : "Sphingosine_1-phosphate (DirectedEdge) SGPL1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Sphingosine_1-phosphate (DirectedEdge) SGPL1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 345,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "source" : "222",
+        "target" : "187",
+        "shared_name" : "UGT1A6B (DirectedEdge) Glucuronide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT1A6B (DirectedEdge) Glucuronide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 344,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "222",
+        "target" : "139",
+        "shared_name" : "UGT1A6B (DirectedEdge) Estrone",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGT1A6B (DirectedEdge) Estrone",
+        "interaction" : "DirectedEdge",
+        "SUID" : 343,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "220",
+        "target" : "238",
+        "shared_name" : "MTHFR (DirectedEdge) SHMT1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTHFR (DirectedEdge) SHMT1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 342,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "219",
+        "target" : "186",
+        "shared_name" : "Purine-6-ol (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Purine-6-ol (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 341,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "219",
+        "target" : "185",
+        "shared_name" : "Purine-6-ol (DirectedEdge) HPRT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Purine-6-ol (DirectedEdge) HPRT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 340,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "215",
+        "target" : "138",
+        "shared_name" : "GGT5 (DirectedEdge) R-S-Cysteinylglycine",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GGT5 (DirectedEdge) R-S-Cysteinylglycine",
+        "interaction" : "DirectedEdge",
+        "SUID" : 339,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "215",
+        "target" : "171",
+        "shared_name" : "GGT5 (DirectedEdge) R-S-Glutathione",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GGT5 (DirectedEdge) R-S-Glutathione",
+        "interaction" : "DirectedEdge",
+        "SUID" : 338,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "212",
+        "target" : "178",
+        "shared_name" : "B4GALT6 (DirectedEdge) Glucosylceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "B4GALT6 (DirectedEdge) Glucosylceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "208",
+        "target" : "248",
+        "shared_name" : "CHPT1 (DirectedEdge) PAF",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CHPT1 (DirectedEdge) PAF",
+        "interaction" : "DirectedEdge",
+        "SUID" : 336,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "206",
+        "target" : "144",
+        "shared_name" : "GPI1 (DirectedEdge) HK2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GPI1 (DirectedEdge) HK2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 335,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "source" : "206",
+        "target" : "232",
+        "shared_name" : "GPI1 (DirectedEdge) PFKFB3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GPI1 (DirectedEdge) PFKFB3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 334,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "source" : "206",
+        "target" : "193",
+        "shared_name" : "GPI1 (DirectedEdge) GPD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GPI1 (DirectedEdge) GPD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 333,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "206",
+        "target" : "235",
+        "shared_name" : "GPI1 (DirectedEdge) C01172",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GPI1 (DirectedEdge) C01172",
+        "interaction" : "DirectedEdge",
+        "SUID" : 332,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "source" : "205",
+        "target" : "168",
+        "shared_name" : "G09660 (DirectedEdge) GUSB",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G09660 (DirectedEdge) GUSB",
+        "interaction" : "DirectedEdge",
+        "SUID" : 331,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "source" : "205",
+        "target" : "172",
+        "shared_name" : "G09660 (DirectedEdge) GNS",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G09660 (DirectedEdge) GNS",
+        "interaction" : "DirectedEdge",
+        "SUID" : 330,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "204",
+        "target" : "238",
+        "shared_name" : "ALDH9A1 (DirectedEdge) SHMT1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH9A1 (DirectedEdge) SHMT1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 329,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "source" : "204",
+        "target" : "198",
+        "shared_name" : "ALDH9A1 (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ALDH9A1 (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 328,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "203",
+        "target" : "178",
+        "shared_name" : "UGCG (DirectedEdge) Glucosylceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGCG (DirectedEdge) Glucosylceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 327,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "203",
+        "target" : "231",
+        "shared_name" : "UGCG (DirectedEdge) Ceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "UGCG (DirectedEdge) Ceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 326,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "202",
+        "target" : "189",
+        "shared_name" : "IDO1 (DirectedEdge) Serotonin",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "IDO1 (DirectedEdge) Serotonin",
+        "interaction" : "DirectedEdge",
+        "SUID" : 325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "200",
+        "target" : "196",
+        "shared_name" : "1,2-Diacylglycerol (DirectedEdge) PLCE1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1,2-Diacylglycerol (DirectedEdge) PLCE1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 324,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "199",
+        "target" : "239",
+        "shared_name" : "CYP1B1 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CYP1B1 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 323,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "199",
+        "target" : "132",
+        "shared_name" : "CYP1B1 (DirectedEdge) Melatonin",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "CYP1B1 (DirectedEdge) Melatonin",
+        "interaction" : "DirectedEdge",
+        "SUID" : 322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "197",
+        "target" : "200",
+        "shared_name" : "PNLIP (DirectedEdge) 1,2-Diacylglycerol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PNLIP (DirectedEdge) 1,2-Diacylglycerol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 321,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "196",
+        "target" : "227",
+        "shared_name" : "PLCE1 (DirectedEdge) Ins(1,4,5)P3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PLCE1 (DirectedEdge) Ins(1,4,5)P3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 320,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "195",
+        "target" : "176",
+        "shared_name" : "SMOX (DirectedEdge) 3-Aminopropanal",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "SMOX (DirectedEdge) 3-Aminopropanal",
+        "interaction" : "DirectedEdge",
+        "SUID" : 319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "192",
+        "target" : "209",
+        "shared_name" : "MTA (DirectedEdge) MTAP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTA (DirectedEdge) MTAP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 318,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "192",
+        "target" : "216",
+        "shared_name" : "MTA (DirectedEdge) SMS",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTA (DirectedEdge) SMS",
+        "interaction" : "DirectedEdge",
+        "SUID" : 317,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "190",
+        "target" : "224",
+        "shared_name" : "PPAP2A (DirectedEdge) Sphingosine_1-phosphate",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPAP2A (DirectedEdge) Sphingosine_1-phosphate",
+        "interaction" : "DirectedEdge",
+        "SUID" : 316,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "190",
+        "target" : "200",
+        "shared_name" : "PPAP2A (DirectedEdge) 1,2-Diacylglycerol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPAP2A (DirectedEdge) 1,2-Diacylglycerol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 315,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "190",
+        "target" : "231",
+        "shared_name" : "PPAP2A (DirectedEdge) Ceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPAP2A (DirectedEdge) Ceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 314,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "source" : "190",
+        "target" : "161",
+        "shared_name" : "PPAP2A (DirectedEdge) 1-Alkyl-2-acylglycerol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPAP2A (DirectedEdge) 1-Alkyl-2-acylglycerol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 313,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "189",
+        "target" : "194",
+        "shared_name" : "Serotonin (DirectedEdge) MAOB",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Serotonin (DirectedEdge) MAOB",
+        "interaction" : "DirectedEdge",
+        "SUID" : 312,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "source" : "187",
+        "target" : "168",
+        "shared_name" : "Glucuronide (DirectedEdge) GUSB",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Glucuronide (DirectedEdge) GUSB",
+        "interaction" : "DirectedEdge",
+        "SUID" : 311,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "186",
+        "target" : "237",
+        "shared_name" : "PNP (DirectedEdge) N-Ribosylnicotinamide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PNP (DirectedEdge) N-Ribosylnicotinamide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 310,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "source" : "186",
+        "target" : "170",
+        "shared_name" : "PNP (DirectedEdge) Vitamin_PP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PNP (DirectedEdge) Vitamin_PP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 309,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "182",
+        "target" : "193",
+        "shared_name" : "HK3 (DirectedEdge) GPD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HK3 (DirectedEdge) GPD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 308,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "source" : "182",
+        "target" : "235",
+        "shared_name" : "HK3 (DirectedEdge) C01172",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HK3 (DirectedEdge) C01172",
+        "interaction" : "DirectedEdge",
+        "SUID" : 307,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "182",
+        "target" : "144",
+        "shared_name" : "HK3 (DirectedEdge) HK2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HK3 (DirectedEdge) HK2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 306,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "source" : "181",
+        "target" : "233",
+        "shared_name" : "Linolenate (DirectedEdge) PLA2G12B",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) PLA2G12B",
+        "interaction" : "DirectedEdge",
+        "SUID" : 305,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "181",
+        "target" : "153",
+        "shared_name" : "Linolenate (DirectedEdge) PLA2G2D",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) PLA2G2D",
+        "interaction" : "DirectedEdge",
+        "SUID" : 304,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "source" : "181",
+        "target" : "152",
+        "shared_name" : "Linolenate (DirectedEdge) PLA2G4A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) PLA2G4A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 303,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "302",
+        "source" : "181",
+        "target" : "133",
+        "shared_name" : "Linolenate (DirectedEdge) FADS2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) FADS2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 302,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "source" : "181",
+        "target" : "141",
+        "shared_name" : "Linolenate (DirectedEdge) PLA2G4D",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Linolenate (DirectedEdge) PLA2G4D",
+        "interaction" : "DirectedEdge",
+        "SUID" : 301,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "180",
+        "target" : "143",
+        "shared_name" : "C01220 (DirectedEdge) INPP5K",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01220 (DirectedEdge) INPP5K",
+        "interaction" : "DirectedEdge",
+        "SUID" : 300,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "source" : "180",
+        "target" : "225",
+        "shared_name" : "C01220 (DirectedEdge) INPP1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01220 (DirectedEdge) INPP1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 299,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "179",
+        "target" : "231",
+        "shared_name" : "GBA (DirectedEdge) Ceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GBA (DirectedEdge) Ceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 298,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "179",
+        "target" : "178",
+        "shared_name" : "GBA (DirectedEdge) Glucosylceramide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GBA (DirectedEdge) Glucosylceramide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 297,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "178",
+        "target" : "226",
+        "shared_name" : "Glucosylceramide (DirectedEdge) GLB1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Glucosylceramide (DirectedEdge) GLB1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 296,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "177",
+        "target" : "206",
+        "shared_name" : "PFKP (DirectedEdge) GPI1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PFKP (DirectedEdge) GPI1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 295,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "176",
+        "target" : "198",
+        "shared_name" : "3-Aminopropanal (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "3-Aminopropanal (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 294,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "175",
+        "target" : "251",
+        "shared_name" : "ETNK1 (DirectedEdge) Phosphoethanolamine",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ETNK1 (DirectedEdge) Phosphoethanolamine",
+        "interaction" : "DirectedEdge",
+        "SUID" : 293,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "174",
+        "target" : "185",
+        "shared_name" : "PPA1 (DirectedEdge) HPRT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PPA1 (DirectedEdge) HPRT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 292,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "173",
+        "target" : "171",
+        "shared_name" : "MGST2 (DirectedEdge) R-S-Glutathione",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MGST2 (DirectedEdge) R-S-Glutathione",
+        "interaction" : "DirectedEdge",
+        "SUID" : 291,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "173",
+        "target" : "239",
+        "shared_name" : "MGST2 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MGST2 (DirectedEdge) Benzo[a]pyrene-4,5-oxide",
+        "interaction" : "DirectedEdge",
+        "SUID" : 290,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "172",
+        "target" : "145",
+        "shared_name" : "GNS (DirectedEdge) G06780",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GNS (DirectedEdge) G06780",
+        "interaction" : "DirectedEdge",
+        "SUID" : 289,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "170",
+        "target" : "158",
+        "shared_name" : "Vitamin_PP (DirectedEdge) NAMPT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Vitamin_PP (DirectedEdge) NAMPT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 288,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "169",
+        "target" : "150",
+        "shared_name" : "ECHS1 (DirectedEdge) ACADL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ECHS1 (DirectedEdge) ACADL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "167",
+        "target" : "139",
+        "shared_name" : "SULT1E1 (DirectedEdge) Estrone",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "SULT1E1 (DirectedEdge) Estrone",
+        "interaction" : "DirectedEdge",
+        "SUID" : 286,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "166",
+        "target" : "228",
+        "shared_name" : "HCO3- (DirectedEdge) PCX",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HCO3- (DirectedEdge) PCX",
+        "interaction" : "DirectedEdge",
+        "SUID" : 285,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "166",
+        "target" : "249",
+        "shared_name" : "HCO3- (DirectedEdge) MCCC2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HCO3- (DirectedEdge) MCCC2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 284,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "162",
+        "target" : "143",
+        "shared_name" : "C01272 (DirectedEdge) INPP5K",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01272 (DirectedEdge) INPP5K",
+        "interaction" : "DirectedEdge",
+        "SUID" : 283,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "162",
+        "target" : "230",
+        "shared_name" : "C01272 (DirectedEdge) MINPP1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C01272 (DirectedEdge) MINPP1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 282,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "161",
+        "target" : "208",
+        "shared_name" : "1-Alkyl-2-acylglycerol (DirectedEdge) CHPT1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "1-Alkyl-2-acylglycerol (DirectedEdge) CHPT1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 281,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "160",
+        "target" : "186",
+        "shared_name" : "Adenine (DirectedEdge) PNP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Adenine (DirectedEdge) PNP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 280,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "160",
+        "target" : "209",
+        "shared_name" : "Adenine (DirectedEdge) MTAP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Adenine (DirectedEdge) MTAP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 279,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "159",
+        "target" : "198",
+        "shared_name" : "Fatty_acid (DirectedEdge) ALDH1B1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Fatty_acid (DirectedEdge) ALDH1B1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 278,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "157",
+        "target" : "147",
+        "shared_name" : "ENTPD4 (DirectedEdge) GMP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "ENTPD4 (DirectedEdge) GMP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 277,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "155",
+        "target" : "220",
+        "shared_name" : "MTHFD1 (DirectedEdge) MTHFR",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MTHFD1 (DirectedEdge) MTHFR",
+        "interaction" : "DirectedEdge",
+        "SUID" : 276,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "154",
+        "target" : "211",
+        "shared_name" : "100048492 (DirectedEdge) NDUFA2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "100048492 (DirectedEdge) NDUFA2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 275,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "154",
+        "target" : "150",
+        "shared_name" : "100048492 (DirectedEdge) ACADL",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "100048492 (DirectedEdge) ACADL",
+        "interaction" : "DirectedEdge",
+        "SUID" : 274,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "153",
+        "target" : "146",
+        "shared_name" : "PLA2G2D (DirectedEdge) C05212",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PLA2G2D (DirectedEdge) C05212",
+        "interaction" : "DirectedEdge",
+        "SUID" : 273,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "151",
+        "target" : "159",
+        "shared_name" : "PNLIPRP1 (DirectedEdge) Fatty_acid",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PNLIPRP1 (DirectedEdge) Fatty_acid",
+        "interaction" : "DirectedEdge",
+        "SUID" : 272,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "151",
+        "target" : "200",
+        "shared_name" : "PNLIPRP1 (DirectedEdge) 1,2-Diacylglycerol",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "PNLIPRP1 (DirectedEdge) 1,2-Diacylglycerol",
+        "interaction" : "DirectedEdge",
+        "SUID" : 271,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "149",
+        "target" : "223",
+        "shared_name" : "630729 (DirectedEdge) GPX1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "630729 (DirectedEdge) GPX1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 270,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "149",
+        "target" : "193",
+        "shared_name" : "630729 (DirectedEdge) GPD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "630729 (DirectedEdge) GPD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 269,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "148",
+        "target" : "223",
+        "shared_name" : "GSH (DirectedEdge) GPX1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GSH (DirectedEdge) GPX1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 268,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "source" : "148",
+        "target" : "173",
+        "shared_name" : "GSH (DirectedEdge) MGST2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GSH (DirectedEdge) MGST2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 267,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "147",
+        "target" : "135",
+        "shared_name" : "GMP (DirectedEdge) NT5C3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GMP (DirectedEdge) NT5C3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 266,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "source" : "147",
+        "target" : "185",
+        "shared_name" : "GMP (DirectedEdge) HPRT",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "GMP (DirectedEdge) HPRT",
+        "interaction" : "DirectedEdge",
+        "SUID" : 265,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "146",
+        "target" : "207",
+        "shared_name" : "C05212 (DirectedEdge) LPCAT2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C05212 (DirectedEdge) LPCAT2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 264,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "146",
+        "target" : "152",
+        "shared_name" : "C05212 (DirectedEdge) PLA2G4A",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "C05212 (DirectedEdge) PLA2G4A",
+        "interaction" : "DirectedEdge",
+        "SUID" : 263,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "145",
+        "target" : "226",
+        "shared_name" : "G06780 (DirectedEdge) GLB1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "G06780 (DirectedEdge) GLB1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 262,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "144",
+        "target" : "193",
+        "shared_name" : "HK2 (DirectedEdge) GPD2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "HK2 (DirectedEdge) GPD2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 261,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "143",
+        "target" : "227",
+        "shared_name" : "INPP5K (DirectedEdge) Ins(1,4,5)P3",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "INPP5K (DirectedEdge) Ins(1,4,5)P3",
+        "interaction" : "DirectedEdge",
+        "SUID" : 260,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "142",
+        "target" : "211",
+        "shared_name" : "MDH2 (DirectedEdge) NDUFA2",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MDH2 (DirectedEdge) NDUFA2",
+        "interaction" : "DirectedEdge",
+        "SUID" : 259,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "source" : "142",
+        "target" : "228",
+        "shared_name" : "MDH2 (DirectedEdge) PCX",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MDH2 (DirectedEdge) PCX",
+        "interaction" : "DirectedEdge",
+        "SUID" : 258,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "142",
+        "target" : "134",
+        "shared_name" : "MDH2 (DirectedEdge) NDUFV1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "MDH2 (DirectedEdge) NDUFV1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 257,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "138",
+        "target" : "140",
+        "shared_name" : "R-S-Cysteinylglycine (DirectedEdge) ANPEP",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "R-S-Cysteinylglycine (DirectedEdge) ANPEP",
+        "interaction" : "DirectedEdge",
+        "SUID" : 256,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "source" : "136",
+        "target" : "195",
+        "shared_name" : "Spermine (DirectedEdge) SMOX",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Spermine (DirectedEdge) SMOX",
+        "interaction" : "DirectedEdge",
+        "SUID" : 255,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "136",
+        "target" : "216",
+        "shared_name" : "Spermine (DirectedEdge) SMS",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Spermine (DirectedEdge) SMS",
+        "interaction" : "DirectedEdge",
+        "SUID" : 254,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "132",
+        "target" : "202",
+        "shared_name" : "Melatonin (DirectedEdge) IDO1",
+        "EDGE_TYPE" : "DirectedEdge",
+        "shared_interaction" : "DirectedEdge",
+        "name" : "Melatonin (DirectedEdge) IDO1",
+        "interaction" : "DirectedEdge",
+        "SUID" : 253,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

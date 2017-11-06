@@ -1,0 +1,108 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "MINT (2017/11/05 10:44:10 下午, TST)",
+    "__Annotations" : [ "" ],
+    "name" : "MINT (2017/11/05 10:44:10 下午, TST)",
+    "SUID" : 834,
+    "source_original" : "MINT",
+    "created_by" : "PSICQUIC Web Service",
+    "selected" : false
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "845",
+        "psi_mi" : [ "NAGK", "nagk_human" ],
+        "Interactor_Type" : [ "protein" ],
+        "Interactor_Type_ID" : [ "MI:0326" ],
+        "Taxonomy_ID" : "9606",
+        "Xref_ID" : [ "GO:0019262", "GO:0005524", "GO:0045127", "GO:0006044", "GO:0006051", "NP_060037.3", "IPR002731", "2CH5", "2CH6", "GO:0070062", "ENSG00000124357", "ENSP00000244204", "ENSP00000389087", "MINT-1182067", "GO:0005829", "GO:0006048", "R-HSA-446210", "ENST00000244204", "ENST00000455662", "ENSP00000477639", "ENST00000613852", "MINT-8168308", "55577" ],
+        "shared_name" : "Q9UJ70",
+        "Xref" : [ "N-acetylneuraminate catabolic process", "ATP binding", "N-acetylglucosamine kinase activity", "N-acetylglucosamine metabolic process", "N-acetylmannosamine metabolic process", "ATPase, BadF/BadG/BcrA/BcrD type", "extracellular exosome", "cytosol", "UDP-N-acetylglucosamine biosynthetic process", "identity", "original identifier" ],
+        "intact" : [ "EBI-372578" ],
+        "uniprotkb_accession" : "Q9UJ70",
+        "Taxonomy_Name" : "human",
+        "name" : "Q9UJ70",
+        "SUID" : 845,
+        "Features" : [ "fusion protein:?-?(MINT-8168310)" ],
+        "Human_Readable_Label" : "NAGK",
+        "uniprot" : [ "Q53HD5", "NAGK", "Q9NV37", "Q9UJ70", "GlcNAc kinase", "Q9BVP0", "B4DLZ5", "Q6IA84", "Q9BS29" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1.5087261199951172,
+        "y" : 53.861083984375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "844",
+        "psi_mi" : [ "MTHFD2", "mtdc_human" ],
+        "Interactor_Type" : [ "protein" ],
+        "Interactor_Type_ID" : [ "MI:0326" ],
+        "Taxonomy_ID" : "9606",
+        "Xref_ID" : [ "GO:0005739", "GO:0000287", "GO:0004477", "GO:0004487", "GO:0004488", "GO:0042301", "GO:0006730", "GO:0046653", "NP_006627.2", "IPR016040", "IPR000672", "IPR020630", "IPR020867", "IPR020631", "1ZN4", "GO:0005615", "5TC4", "MINT-4656441", "GO:0005759", "GO:0046655", "R-HSA-196757", "ENSG00000065911", "ENSP00000377617", "XP_006711987.1", "ENST00000394053", "MINT-8168304", "10797" ],
+        "shared_name" : "P13995",
+        "Xref" : [ "mitochondrion", "magnesium ion binding", "methenyltetrahydrofolate cyclohydrolase activity", "methylenetetrahydrofolate dehydrogenase", "methylenetetrahydrofolate dehydrogenase", "phosphate ion binding", "one-carbon metabolic process", "tetrahydrofolate metabolic process", "NA", "Tetrahydrofolate dehydrogenase/cyclohydrolase", "extracellular space", "mitochondrial matrix", "folic acid metabolic process", "identity", "original identifier" ],
+        "intact" : [ "EBI-1058895" ],
+        "uniprotkb_accession" : "P13995",
+        "Taxonomy_Name" : "human",
+        "name" : "P13995",
+        "SUID" : 844,
+        "Features" : [ "" ],
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "Q53G90", "Q7Z650", "NMDMC", "MTHFD2", "Q53GV5", "Q53S36", "P13995" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1.5087261199951172,
+        "y" : -53.861083984375
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "846",
+        "source" : "845",
+        "target" : "844",
+        "Target_Experimental_Role_ID" : [ "MI:0496" ],
+        "shared_interaction" : "EBI-8644724",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Experimental_Role_ID" : [ "MI:0498" ],
+        "Host_Organism_Taxonomy_ID" : [ "559292", "559292" ],
+        "Update_Date" : "2014/10/16",
+        "Target_Biological_Role" : [ "unspecified role" ],
+        "Publication_ID" : [ "MINT-8153045", "21516116", "IM-15361", "yu-naturemeth" ],
+        "Target_Biological_Role_ID" : [ "MI:0499" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "Q9UJ70 (EBI-8644724) P13995",
+        "Negative" : false,
+        "Source_Biological_Role" : [ "unspecified role" ],
+        "SUID" : 846,
+        "selected" : false,
+        "Source_Database" : "psi-mi",
+        "Target_Participant_Detection_Method" : [ "nucleotide sequence identification" ],
+        "Source_Experimental_Role" : [ "prey" ],
+        "Annotation" : [ "figure legend:ST2", "comment:homomint", "comment:mint", "full coverage:Only protein-protein interactions", "curation depth:imex curation" ],
+        "Source_Biological_Role_ID" : [ "MI:0499" ],
+        "Confidence_Score_intact_miscore" : 0.37,
+        "Source_Participant_Detection_Method" : [ "nucleotide sequence identification" ],
+        "Creation_Date" : "2011/04/21",
+        "Target_Participant_Detection_Method_ID" : [ "MI:0078" ],
+        "Target_Experimental_Role" : [ "bait" ],
+        "Host_Organism_Taxonomy" : [ "yeast", "Saccharomyces cerevisiae" ],
+        "Publication_DB" : [ "mint", "pubmed", "imex", "mint" ],
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "name" : "Q9UJ70 (EBI-8644724) P13995",
+        "interaction" : "EBI-8644724",
+        "Author" : [ "Yu et al. (2011)" ],
+        "Source_Participant_Detection_Method_ID" : [ "MI:0078" ],
+        "Primary_Interaction_Type" : "physical association"
+      },
+      "selected" : false
+    } ]
+  }
+}

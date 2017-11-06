@@ -1,0 +1,2915 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Merged Network (2017/11/05 10:44:22 下午, TST)",
+    "name" : "Merged Network (2017/11/05 10:44:22 下午, TST)",
+    "SUID" : 686,
+    "created_by" : "PSICQUIC Web Service",
+    "__Annotations" : [ "" ],
+    "selected" : false
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "758",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "115385",
+        "biogrid" : [ "115385" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "UREB1", "MULE", "10075", "HSPC272", "HECTH9", "LASU1", "HUWE1", "ARF-BP1", "Ib772", "URE-B1", "RP3-339A18.4" ],
+        "name" : "115385",
+        "SUID" : 758,
+        "Human_Readable_Label" : "UREB1",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 572.1408274533256,
+        "y" : -16.94243197497866
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "757",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "116011",
+        "biogrid" : [ "116011" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "NMDMC", "MTHFD2", "10797" ],
+        "name" : "116011",
+        "SUID" : 757,
+        "Human_Readable_Label" : "NMDMC",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 414.8626215817436,
+        "y" : -44.75297122058413
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "756",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9031",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "686612",
+        "biogrid" : [ "686612" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "427272", "SYK", "RCJMB04_19o18" ],
+        "name" : "686612",
+        "SUID" : 756,
+        "Human_Readable_Label" : "SYK",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -553.6972386477486,
+        "y" : 356.5711750501678
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "755",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9031",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "685886",
+        "biogrid" : [ "685886" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "MTHFD2", "426126", "RCJMB04_12b8" ],
+        "name" : "685886",
+        "SUID" : 755,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -550.6797864077583,
+        "y" : 248.84900708141782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "754",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "11676",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "1205545",
+        "biogrid" : [ "1205545" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "HIV1gp9", "nef", "156110" ],
+        "name" : "1205545",
+        "SUID" : 754,
+        "Human_Readable_Label" : "HIV1gp9",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 541.87627056856,
+        "y" : -140.64003233966372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "753",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "115351",
+        "biogrid" : [ "115351" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "PARP3", "IRT1", "ARTD3", "ADPRTL2", "ADPRT3", "ADPRTL3", "10039", "PADPRT-3" ],
+        "name" : "115351",
+        "SUID" : 753,
+        "Human_Readable_Label" : "PARP3",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 533.7912180783256,
+        "y" : 65.21765561047056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "752",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "111691",
+        "biogrid" : [ "111691" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "p40.5", "5719", "S11", "PSMD13", "HSPC027", "Rpn9" ],
+        "name" : "111691",
+        "SUID" : 752,
+        "Human_Readable_Label" : "p40.5",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 442.3131411435112,
+        "y" : 114.24884457531431
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "751",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "106548",
+        "biogrid" : [ "106548" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "PTHIO", "ACAA1", "ACAA", "30", "THIO" ],
+        "name" : "106548",
+        "SUID" : 751,
+        "Human_Readable_Label" : "PTHIO",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 507.07427052278365,
+        "y" : -0.7877002244903792
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "750",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "120728",
+        "biogrid" : [ "120728" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "HSA242910", "NAGK", "GNK", "55577" ],
+        "name" : "120728",
+        "SUID" : 750,
+        "Human_Readable_Label" : "HSA242910",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 476.27169243116225,
+        "y" : -130.4101723319008
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "749",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "122790",
+        "biogrid" : [ "122790" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DHX40", "ARG147", "79665", "PAD", "DDX40" ],
+        "name" : "122790",
+        "SUID" : 749,
+        "Human_Readable_Label" : "DHX40",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 538.7727167965874,
+        "y" : -75.4033427720978
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "748",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "122718",
+        "biogrid" : [ "122718" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "GCC88", "GCC1P", "GCC1", "79571" ],
+        "name" : "122718",
+        "SUID" : 748,
+        "Human_Readable_Label" : "GCC88",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 265.37403515596236,
+        "y" : -58.951983976931785
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "747",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "120001",
+        "biogrid" : [ "120001" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DDX29", "54505", "DHX29" ],
+        "name" : "120001",
+        "SUID" : 747,
+        "Human_Readable_Label" : "DDX29",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 393.1374705197319,
+        "y" : -193.56246905383608
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "746",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "114030",
+        "biogrid" : [ "114030" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "8452", "PHA2E", "CUL3", "CUL-3" ],
+        "name" : "114030",
+        "SUID" : 746,
+        "Human_Readable_Label" : "PHA2E",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 361.62947491426314,
+        "y" : -138.53661875781557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "745",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "136699",
+        "biogrid" : [ "136699" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "MINOS1", "C1orf151", "440574", "RP5-1056L3.2", "MIO10" ],
+        "name" : "136699",
+        "SUID" : 745,
+        "Human_Readable_Label" : "MINOS1",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 461.17048481721724,
+        "y" : -194.88362841662905
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "744",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "110845",
+        "biogrid" : [ "110845" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "NF-ATC", "NFATc", "4772", "NFATC1", "NFAT2" ],
+        "name" : "110845",
+        "SUID" : 744,
+        "Human_Readable_Label" : "NF-ATC",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 295.65931347627486,
+        "y" : -153.62641863879702
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "743",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "110846",
+        "biogrid" : [ "110846" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "RP5-1009H6.1", "4773", "NFATC2", "NFAT1", "NFATP" ],
+        "name" : "110846",
+        "SUID" : 743,
+        "Human_Readable_Label" : "RP5-1009H6.1",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 321.1959956051811,
+        "y" : 32.43916745129087
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "742",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "201176",
+        "biogrid" : [ "201176" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "Lmna", "Dhe", "16905" ],
+        "name" : "201176",
+        "SUID" : 742,
+        "Human_Readable_Label" : "Lmna",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 317.32813671846236,
+        "y" : -89.32955126819155
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "741",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "201728",
+        "biogrid" : [ "201728" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "18005", "AA617254", "C77054", "Nek2" ],
+        "name" : "201728",
+        "SUID" : 741,
+        "Human_Readable_Label" : "AA617254",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 464.7155192257866,
+        "y" : 51.20010800304868
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "740",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "107604",
+        "biogrid" : [ "107604" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DADB-110M10.1", "NCC27", "CLIC1", "1192", "G6" ],
+        "name" : "107604",
+        "SUID" : 740,
+        "Human_Readable_Label" : "DADB-110M10.1",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 264.3489649655327,
+        "y" : 8.221363496212746
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "739",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "108309",
+        "biogrid" : [ "108309" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "1994", "HUR", "Hua", "MelG", "ELAV1", "ELAVL1" ],
+        "name" : "108309",
+        "SUID" : 739,
+        "Human_Readable_Label" : "HUR",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 344.97752026338424,
+        "y" : 98.922840546994
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "738",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "7227",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "71042",
+        "biogrid" : [ "71042" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DmelCG18466", "151767_at", "Dmel_CG18466", "Nmdmc", "47895", "Mthfd2", "CG18466", "DNMDMC" ],
+        "name" : "71042",
+        "SUID" : 738,
+        "Human_Readable_Label" : "DmelCG18466",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -450.67978640775834,
+        "y" : 356.5711750501678
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "737",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "7227",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "65147",
+        "biogrid" : [ "65147" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "CG16725", "Smn", "l(3)73Ao", "DmelCG16725", "DmSMN", "39844", "dSMN", "Dmel_CG16725" ],
+        "name" : "65147",
+        "SUID" : 737,
+        "Human_Readable_Label" : "CG16725",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -447.6623341677681,
+        "y" : 248.84900708141782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "736",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "111700",
+        "biogrid" : [ "111700" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "5728", "DEC", "MHAM", "TEP1", "PTEN", "10q23del", "BZS", "PTEN1", "GLM2", "CWS1", "MMAC1" ],
+        "name" : "111700",
+        "SUID" : 736,
+        "Human_Readable_Label" : "DEC",
+        "uniprot" : [ "" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 392.41965893525924,
+        "y" : 60.70514340343931
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "735",
+        "psi_mi" : [ "NAGK", "nagk_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "B4DLZ5",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-372578" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "B4DLZ5",
+        "SUID" : 735,
+        "Human_Readable_Label" : "NAGK",
+        "uniprot" : [ "Q53HD5", "NAGK", "Q9NV37", "GlcNAc kinase", "Q9BVP0", "B4DLZ5", "Q6IA84", "Q9BS29" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -553.6972386477486,
+        "y" : -20.001800108523582
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "734",
+        "psi_mi" : [ "MTHFD2", "mtdc_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q7Z650",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-1058895" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q7Z650",
+        "SUID" : 734,
+        "Human_Readable_Label" : "NMDMC",
+        "uniprot" : [ "Q7Z650", "Q53G90", "NMDMC", "MTHFD2", "Q53GV5", "Q53S36" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -399.7004124758736,
+        "y" : -37.057601500125145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "733",
+        "psi_mi" : [ "Lmna", "lmna_mouse" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q3UCU3",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-299212" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "mouse",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q3UCU3",
+        "SUID" : 733,
+        "Human_Readable_Label" : "Lmn1",
+        "uniprot" : [ "Q3UCU3", "Lmn1", "P11516", "Q3TTS8", "Q91WF2", "Q3U733", "P97859", "Q3UCJ8", "Lmna", "Q3TIH0", "Q3UCA0", "B3RH23", "Q9DC21", "B3RH24", "Q3U7I5" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -414.98395129423295,
+        "y" : -172.80105547961733
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "732",
+        "psi_mi" : [ "nek2_mouse", "Nek2" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "O35959",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-1202268" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "mouse",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "O35959",
+        "SUID" : 732,
+        "Human_Readable_Label" : "Nek2",
+        "uniprot" : [ "O35959", "Nek2", "Q3TPD7", "Never in mitosis A-related kinase 2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -509.9022557375923,
+        "y" : 36.424454163937355
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "731",
+        "psi_mi" : [ "hsc20_human", "HSCB" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q9BWS7",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-1805738" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9BWS7",
+        "SUID" : 731,
+        "Human_Readable_Label" : "HSC20",
+        "uniprot" : [ "DNAJC20", "Q9BWS7", "Hsc20", "HSCB", "HSC20", "DnaJ homolog subfamily C member 20" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -346.2473179934517,
+        "y" : -144.8024364000275
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "730",
+        "psi_mi" : [ "PROP1", "prop1_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "O75360",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-9027467" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "O75360",
+        "SUID" : 730,
+        "Human_Readable_Label" : "Pituitary-specific homeodomain factor",
+        "uniprot" : [ "Pituitary-specific homeodomain factor", "PROP1", "O75360" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -222.49200793485795,
+        "y" : -1.8854480272247542
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "729",
+        "psi_mi" : [ "NAGK", "q9uj70-2" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q9UJ70-2",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-11526455" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9UJ70-2",
+        "SUID" : 729,
+        "Human_Readable_Label" : "NAGK",
+        "uniprot" : [ "Q9UJ70-2", "NAGK", "GlcNAc kinase" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -475.5113865969673,
+        "y" : -146.2568583970978
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "728",
+        "psi_mi" : [ "PSMD13", "psd13_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "B3KT15",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-1058479", "EBI-356070" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "B3KT15",
+        "SUID" : 728,
+        "Human_Readable_Label" : "26S proteasome regulatory subunit p40.5",
+        "uniprot" : [ "26S proteasome regulatory subunit p40.5", "PSMD13", "O75831", "26S proteasome regulatory subunit RPN9", "Q9UNV3", "Q53XU2", "26S proteasome regulatory subunit S11", "B3KT15" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -499.0069310305611,
+        "y" : -56.625063706011986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "727",
+        "psi_mi" : [ "PARP3", "parp3_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q9UG81",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-1045281" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9UG81",
+        "SUID" : 727,
+        "Human_Readable_Label" : "IRT1",
+        "uniprot" : [ "Q9UG81", "PARP3", "IRT1", "Q96CG2", "Q8NER9", "NAD(+) ADP-ribosyltransferase 3", "Poly[ADP-ribose] synthase 3", "ADPRT3", "ADPRTL3", "ADP-ribosyltransferase diphtheria toxin-like 3" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -339.3527867434517,
+        "y" : 56.84685559216001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "726",
+        "psi_mi" : [ "MCC", "crcm_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "D3DT05",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-307531" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "D3DT05",
+        "SUID" : 726,
+        "Human_Readable_Label" : "MCC",
+        "uniprot" : [ "Q6ZR04", "D3DT05", "MCC" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -469.4805028079048,
+        "y" : 87.59253735485532
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "725",
+        "psi_mi" : [ "P", "q77m19_measw" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "132487",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q77M19",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-6149376" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Measles virus strain Schwarz",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q77M19",
+        "SUID" : 725,
+        "Human_Readable_Label" : "P",
+        "uniprot" : [ "P", "Q77M19" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -220.27103015165483,
+        "y" : -61.22361593303225
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "724",
+        "psi_mi" : [ "nef_hv1h2", "nef" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "11706",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q85587",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-6164028" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "hv1h2",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q85587",
+        "SUID" : 724,
+        "Human_Readable_Label" : "Negative factor",
+        "uniprot" : [ "Q85587", "Negative factor", "O09780", "nef", "3'ORF" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -401.0387303469673,
+        "y" : 96.24144787731626
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "723",
+        "psi_mi" : [ "LRRK2", "lrrk2_human" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q8NCX9",
+        "biogrid" : [ "" ],
+        "intact" : [ "EBI-5323863" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q8NCX9",
+        "SUID" : 723,
+        "Human_Readable_Label" : "LRRK2",
+        "uniprot" : [ "Q6ZS50", "A6NJU2", "LRRK2", "Dardarin", "PARK8", "Q8NCX9" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -534.8863865969673,
+        "y" : -111.84422259387514
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "722",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "NAGK" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_060037" ],
+        "innatedb" : [ "IDBG-55848" ],
+        "shared_name" : "Q9UJ70",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000124357" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9UJ70",
+        "SUID" : 722,
+        "Human_Readable_Label" : "NAGK",
+        "uniprot" : [ "NAGK", "Q9UJ70" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -104.38023730497514,
+        "y" : -63.94853358325503
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "721",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "MTHFD2" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_006627" ],
+        "innatedb" : [ "IDBG-57007" ],
+        "shared_name" : "P13995",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000065911" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P13995",
+        "SUID" : 721,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "MTHFD2", "P13995" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -12.444537842084515,
+        "y" : -22.170768309207176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "720",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "GCC1" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_078799" ],
+        "innatedb" : [ "IDBG-39328" ],
+        "shared_name" : "Q96CN9",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000179562" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q96CN9",
+        "SUID" : 720,
+        "Human_Readable_Label" : "GCC1",
+        "uniprot" : [ "Q96CN9", "GCC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 10.013229644487751,
+        "y" : -137.631415892215
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "719",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "DHX29" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_061903" ],
+        "innatedb" : [ "IDBG-21044" ],
+        "shared_name" : "Q7Z478",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000067248" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q7Z478",
+        "SUID" : 719,
+        "Human_Readable_Label" : "DHX29",
+        "uniprot" : [ "Q7Z478", "DHX29" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -59.71406146268998,
+        "y" : -121.45659213122866
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "718",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "MINOS1" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_001191012", "NP_001191011", "NP_001027535" ],
+        "innatedb" : [ "IDBG-92708" ],
+        "shared_name" : "Q5TGZ0",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000173436" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q5TGZ0",
+        "SUID" : 718,
+        "Human_Readable_Label" : "MINOS1",
+        "uniprot" : [ "MINOS1", "Q5TGZ0" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -129.07985278349076,
+        "y" : -5.038211393923973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "717",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "CUL3" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_003581", "NP_001244127", "NP_001244126" ],
+        "innatedb" : [ "IDBG-82331" ],
+        "shared_name" : "Q13618",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000036257" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q13618",
+        "SUID" : 717,
+        "Human_Readable_Label" : "CUL3",
+        "uniprot" : [ "CUL3", "Q13618" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 58.61738709230269,
+        "y" : -87.4170089250519
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "716",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "UBC" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_066289" ],
+        "innatedb" : [ "IDBG-64029" ],
+        "shared_name" : "P0CG48",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000150991" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P0CG48",
+        "SUID" : 716,
+        "Human_Readable_Label" : "UBC_HUMAN",
+        "uniprot" : [ "UBC_HUMAN", "P0CG48" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 75.38260201234664,
+        "y" : 125.30754895153501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "715",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "DHX40" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_078888", "NP_001159773" ],
+        "innatedb" : [ "IDBG-61717" ],
+        "shared_name" : "Q8IX18",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000108406" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q8IX18",
+        "SUID" : 715,
+        "Human_Readable_Label" : "DHX40",
+        "uniprot" : [ "DHX40", "Q8IX18" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 40.234329498003376,
+        "y" : -194.88362841662905
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "714",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "PARP3" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_001003931", "NP_005476" ],
+        "innatedb" : [ "IDBG-37754" ],
+        "shared_name" : "Q9Y6F1",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000041880" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9Y6F1",
+        "SUID" : 714,
+        "Human_Readable_Label" : "PARP3",
+        "uniprot" : [ "PARP3", "Q9Y6F1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 134.7113993527397,
+        "y" : -112.4581523424103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "713",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "PSMD13" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_002808", "NP_787128" ],
+        "innatedb" : [ "IDBG-15776" ],
+        "shared_name" : "Q9UNM6",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000185627" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q9UNM6",
+        "SUID" : 713,
+        "Human_Readable_Label" : "PSMD13",
+        "uniprot" : [ "PSMD13", "Q9UNM6" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 161.72285870332564,
+        "y" : 24.02507061901548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "712",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "HUWE1" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_113584" ],
+        "innatedb" : [ "IDBG-70116" ],
+        "shared_name" : "Q7Z6Z7",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000086758" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q7Z6Z7",
+        "SUID" : 712,
+        "Human_Readable_Label" : "HUWE1",
+        "uniprot" : [ "Q7Z6Z7", "HUWE1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -50.47745105009233,
+        "y" : 141.2770771497772
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "711",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "MDM2" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "NP_001138809", "NP_002383", "NP_001265391", "NP_001138811", "NP_001138812" ],
+        "innatedb" : [ "IDBG-46431" ],
+        "shared_name" : "Q00987",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "ENSG00000135679" ],
+        "Taxonomy_Name" : "Human",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q00987",
+        "SUID" : 711,
+        "Human_Readable_Label" : "Q00987",
+        "uniprot" : [ "Q00987" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 100.15118817109908,
+        "y" : 21.144714784054543
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "710",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P11586",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P11586",
+        "SUID" : 710,
+        "Human_Readable_Label" : "MTHFD1",
+        "uniprot" : [ "MTHFD1", "P11586" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -98.98135730009233,
+        "y" : -170.06538348254702
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "709",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q6UB35",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q6UB35",
+        "SUID" : 709,
+        "Human_Readable_Label" : "MTHFD1L",
+        "uniprot" : [ "MTHFD1L", "Q6UB35" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -71.06215258817826,
+        "y" : 53.11190838757017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "708",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P23508",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P23508",
+        "SUID" : 708,
+        "Human_Readable_Label" : "MCC",
+        "uniprot" : [ "P23508", "MCC" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -107.00458117704545,
+        "y" : 112.44503064098814
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "707",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "O00299",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "O00299",
+        "SUID" : 707,
+        "Human_Readable_Label" : "CLIC1",
+        "uniprot" : [ "O00299", "CLIC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 104.45996121187056,
+        "y" : -43.07851748523257
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "706",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q15717",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q15717",
+        "SUID" : 706,
+        "Human_Readable_Label" : "ELAVL1",
+        "uniprot" : [ "Q15717", "ELAVL1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 127.41311291475142,
+        "y" : 85.38677258434751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "705",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P60484",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P60484",
+        "SUID" : 705,
+        "Human_Readable_Label" : "PTEN",
+        "uniprot" : [ "P60484", "PTEN" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 83.36845425386275,
+        "y" : -142.6990962511017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "704",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9031",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "F1N9Y5",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Gallus gallus",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "F1N9Y5",
+        "SUID" : 704,
+        "Human_Readable_Label" : "SYK",
+        "uniprot" : [ "SYK", "F1N9Y5" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -347.6623341677681,
+        "y" : 356.5711750501678
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "703",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9031",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q5ZKA5",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Gallus gallus",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q5ZKA5",
+        "SUID" : 703,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "Q5ZKA5", "MTHFD2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -344.6448819277779,
+        "y" : 248.84900708141782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "702",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q5S007",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q5S007",
+        "SUID" : 702,
+        "Human_Readable_Label" : "LRRK2",
+        "uniprot" : [ "Q5S007", "LRRK2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -30.837650024701702,
+        "y" : -192.2709727769806
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "701",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "O95644",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "O95644",
+        "SUID" : 701,
+        "Human_Readable_Label" : "NFATC1",
+        "uniprot" : [ "O95644", "NFATC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10.067546570111858,
+        "y" : 87.93477673473814
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "700",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "11706",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P04601",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "HIV-1 M:B_HXB2R",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P04601",
+        "SUID" : 700,
+        "Human_Readable_Label" : "NEF",
+        "uniprot" : [ "P04601", "NEF" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 51.652694976519,
+        "y" : 64.73460431042173
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "699",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "Q8IWL3",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "Q8IWL3",
+        "SUID" : 699,
+        "Human_Readable_Label" : "HSCB",
+        "uniprot" : [ "HSCB", "Q8IWL3" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -141.36301013212358,
+        "y" : 58.227913331417824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "698",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P48678",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Mus musculus",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P48678",
+        "SUID" : 698,
+        "Human_Readable_Label" : "LMNA",
+        "uniprot" : [ "LMNA", "P48678" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 15.972263610552204,
+        "y" : 148.84900708141782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "697",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "10090",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "O35942",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Mus musculus",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "O35942",
+        "SUID" : 697,
+        "Human_Readable_Label" : "NEK2",
+        "uniprot" : [ "O35942", "NEK2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -140.09804126005326,
+        "y" : -112.57903246936343
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "696",
+        "psi_mi" : [ "" ],
+        "hgnc" : [ "" ],
+        "Taxonomy_ID" : "9606",
+        "refseq" : [ "" ],
+        "innatedb" : [ "" ],
+        "shared_name" : "P09110",
+        "biogrid" : [ "" ],
+        "intact" : [ "" ],
+        "ensembl" : [ "" ],
+        "Taxonomy_Name" : "Homo sapiens",
+        "entrez_gene_locuslink" : [ "" ],
+        "name" : "P09110",
+        "SUID" : 696,
+        "Human_Readable_Label" : "ACAA1",
+        "uniprot" : [ "P09110", "ACAA1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 164.34896496553267,
+        "y" : -50.742652464480614
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "817",
+        "source" : "758",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "25147182" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1029912" ],
+        "Author" : [ "" ],
+        "SUID" : 817,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "816",
+        "source" : "757",
+        "target" : "750",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "25416956", "21516116" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1045711", "1438315" ],
+        "Author" : [ "" ],
+        "SUID" : 816,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "815",
+        "source" : "757",
+        "target" : "740",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26344197" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.081921667,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1260081" ],
+        "Author" : [ "" ],
+        "SUID" : 815,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "814",
+        "source" : "756",
+        "target" : "755",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "21472591" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "737111" ],
+        "Author" : [ "" ],
+        "SUID" : 814,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "813",
+        "source" : "754",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22190034" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "838424" ],
+        "Author" : [ "" ],
+        "SUID" : 813,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "812",
+        "source" : "753",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.374,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "242306" ],
+        "Author" : [ "" ],
+        "SUID" : 812,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "811",
+        "source" : "752",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.356,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "242554" ],
+        "Author" : [ "" ],
+        "SUID" : 811,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "810",
+        "source" : "751",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26186194" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.808203475,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1193830" ],
+        "Author" : [ "" ],
+        "SUID" : 810,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "809",
+        "source" : "749",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.816,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "750464" ],
+        "Author" : [ "" ],
+        "SUID" : 809,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "808",
+        "source" : "748",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.79,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "751883" ],
+        "Author" : [ "" ],
+        "SUID" : 808,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "807",
+        "source" : "747",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 0.752,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "754374" ],
+        "Author" : [ "" ],
+        "SUID" : 807,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "806",
+        "source" : "746",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "21145461" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "686883" ],
+        "Author" : [ "" ],
+        "SUID" : 806,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "805",
+        "source" : "745",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22114354" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "591920" ],
+        "Author" : [ "" ],
+        "SUID" : 805,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "804",
+        "source" : "744",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "27637333" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 5.4,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1533682" ],
+        "Author" : [ "" ],
+        "SUID" : 804,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "803",
+        "source" : "743",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "27637333" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "score" : 5.8,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1533780" ],
+        "Author" : [ "" ],
+        "SUID" : 803,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "802",
+        "source" : "742",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1465513" ],
+        "Author" : [ "" ],
+        "SUID" : 802,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "801",
+        "source" : "741",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1465514" ],
+        "Author" : [ "" ],
+        "SUID" : 801,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "800",
+        "source" : "739",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "19322201" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "663538" ],
+        "Author" : [ "" ],
+        "SUID" : 800,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "799",
+        "source" : "738",
+        "target" : "737",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22036573" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "650816" ],
+        "Author" : [ "" ],
+        "SUID" : 799,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "798",
+        "source" : "736",
+        "target" : "757",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26561776" ],
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1420142" ],
+        "Author" : [ "" ],
+        "SUID" : 798,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "797",
+        "source" : "735",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "MINT-8153045", "21516116", "IM-15361", "yu-naturemeth" ],
+        "intact_miscore" : 0.37,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "mint", "pubmed", "imex", "mint" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-8644724" ],
+        "Author" : [ "" ],
+        "SUID" : 797,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "796",
+        "source" : "734",
+        "target" : "729",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "unassigned1304", "IM-25472" ],
+        "intact_miscore" : 0.49,
+        "author_score" : 0.832865060195,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-14510803", "EBI-14510788" ],
+        "Author" : [ "" ],
+        "SUID" : 796,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "795",
+        "source" : "734",
+        "target" : "728",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "intact_miscore" : 0.4,
+        "author_score" : 0.356,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-1069498" ],
+        "Author" : [ "" ],
+        "SUID" : 795,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "794",
+        "source" : "734",
+        "target" : "727",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "intact_miscore" : 0.4,
+        "author_score" : 0.374,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-1073726" ],
+        "Author" : [ "" ],
+        "SUID" : 794,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "793",
+        "source" : "734",
+        "target" : "726",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "intact_miscore" : 0.4,
+        "author_score" : 0.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-1072213" ],
+        "Author" : [ "" ],
+        "SUID" : 793,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "792",
+        "source" : "733",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610", "IM-24272" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-11044755" ],
+        "Author" : [ "" ],
+        "SUID" : 792,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "791",
+        "source" : "732",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610", "IM-24272" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-11015886" ],
+        "Author" : [ "" ],
+        "SUID" : 791,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "790",
+        "source" : "731",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "28380382", "IM-25655" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-13945143" ],
+        "Author" : [ "" ],
+        "SUID" : 790,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "789",
+        "source" : "730",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "unassigned1304", "IM-25472" ],
+        "intact_miscore" : 0.49,
+        "author_score" : 0.858014720394,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-14118453", "EBI-14118466" ],
+        "Author" : [ "" ],
+        "SUID" : 789,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "788",
+        "source" : "730",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "unassigned1304" ],
+        "mentha_score" : 0.236,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-14118453", "EBI-14118466" ],
+        "Author" : [ "" ],
+        "SUID" : 788,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "787",
+        "source" : "725",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "21911578", "IM-17703" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "imex" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-6268389" ],
+        "Author" : [ "" ],
+        "SUID" : 787,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "786",
+        "source" : "725",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "21911578" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-6268389" ],
+        "Author" : [ "" ],
+        "SUID" : 786,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "785",
+        "source" : "724",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "IM-17346", "22190034", "MI:0007" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "imex", "pubmed", "psi-mi" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-6174744" ],
+        "Author" : [ "" ],
+        "SUID" : 785,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "784",
+        "source" : "723",
+        "target" : "734",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "IM-22527", "24725412" ],
+        "intact_miscore" : 0.35,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "imex", "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-9515510" ],
+        "Author" : [ "" ],
+        "SUID" : 784,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "783",
+        "source" : "722",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 1571.0,
+        "Publication_ID" : [ "21516116", "25416956", "unassigned1304" ],
+        "mentha_score" : 0.583,
+        "lpr" : 1571.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "pubmed", "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-14510803", "1045711", "EBI-8644724", "1438315", "MINT-8168303", "EBI-14510788" ],
+        "Author" : [ "" ],
+        "SUID" : 783,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "782",
+        "source" : "721",
+        "target" : "718",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 26.0,
+        "Publication_ID" : [ "22114354" ],
+        "mentha_score" : 0.126,
+        "lpr" : 26.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "591920" ],
+        "Author" : [ "" ],
+        "SUID" : 782,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "781",
+        "source" : "721",
+        "target" : "717",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 4597.0,
+        "Publication_ID" : [ "21145461" ],
+        "mentha_score" : 0.126,
+        "lpr" : 4597.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "686883" ],
+        "Author" : [ "" ],
+        "SUID" : 781,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "780",
+        "source" : "721",
+        "target" : "716",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 3624.0,
+        "Publication_ID" : [ "21139048", "21906983", "21890473", "21963094", "24816145" ],
+        "lpr" : 3624.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed", "pubmed", "pubmed", "pubmed", "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "628042", "626259", "847292", "618661", "943064" ],
+        "Author" : [ "" ],
+        "SUID" : 780,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "779",
+        "source" : "721",
+        "target" : "714",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 2130.0,
+        "Publication_ID" : [ "17353931" ],
+        "mentha_score" : 0.236,
+        "lpr" : 2130.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-1073726", "242306" ],
+        "Author" : [ "" ],
+        "SUID" : 779,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "778",
+        "source" : "721",
+        "target" : "713",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 2130.0,
+        "Publication_ID" : [ "17353931" ],
+        "mentha_score" : 0.236,
+        "lpr" : 2130.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "242554", "EBI-1069498" ],
+        "Author" : [ "" ],
+        "SUID" : 778,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "777",
+        "source" : "721",
+        "target" : "709",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "20482850" ],
+        "NBC" : 0.92711734997754,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "" ],
+        "Author" : [ "" ],
+        "SUID" : 777,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "776",
+        "source" : "721",
+        "target" : "708",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "17353931" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-1072213" ],
+        "Author" : [ "" ],
+        "SUID" : 776,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "775",
+        "source" : "721",
+        "target" : "707",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26344197" ],
+        "mentha_score" : 0.081,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1260081" ],
+        "Author" : [ "" ],
+        "SUID" : 775,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "774",
+        "source" : "720",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 13733.0,
+        "Publication_ID" : [ "22939629" ],
+        "mentha_score" : 0.081,
+        "lpr" : 13733.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "751883" ],
+        "Author" : [ "" ],
+        "SUID" : 774,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "773",
+        "source" : "719",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 13733.0,
+        "Publication_ID" : [ "22939629" ],
+        "mentha_score" : 0.081,
+        "lpr" : 13733.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "754374" ],
+        "Author" : [ "" ],
+        "SUID" : 773,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "772",
+        "source" : "715",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 13733.0,
+        "Publication_ID" : [ "22939629" ],
+        "mentha_score" : 0.081,
+        "lpr" : 13733.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "750464" ],
+        "Author" : [ "" ],
+        "SUID" : 772,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "771",
+        "source" : "712",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 1908.0,
+        "Publication_ID" : [ "25147182" ],
+        "mentha_score" : 0.126,
+        "lpr" : 1908.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1029912" ],
+        "Author" : [ "" ],
+        "SUID" : 771,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "770",
+        "source" : "711",
+        "target" : "721",
+        "np" : 1.0,
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "hpr" : 422.0,
+        "Publication_ID" : [ "24583282" ],
+        "lpr" : 422.0,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "937926" ],
+        "Author" : [ "" ],
+        "SUID" : 770,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "769",
+        "source" : "710",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "20482850" ],
+        "NBC" : 0.92711734997754,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "" ],
+        "Author" : [ "" ],
+        "SUID" : 769,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "768",
+        "source" : "706",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "19322201" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "663538" ],
+        "Author" : [ "" ],
+        "SUID" : 768,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "767",
+        "source" : "705",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26561776" ],
+        "mentha_score" : 0.183,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1420142" ],
+        "Author" : [ "" ],
+        "SUID" : 767,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "766",
+        "source" : "704",
+        "target" : "703",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "21472591" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "737111" ],
+        "Author" : [ "" ],
+        "SUID" : 766,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "765",
+        "source" : "702",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "24725412" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-9515510" ],
+        "Author" : [ "" ],
+        "SUID" : 765,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "764",
+        "source" : "701",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "27637333" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1533682" ],
+        "Author" : [ "" ],
+        "SUID" : 764,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "763",
+        "source" : "700",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "22190034" ],
+        "mentha_score" : 0.21,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "838424", "EBI-6174744" ],
+        "Author" : [ "" ],
+        "SUID" : 763,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "762",
+        "source" : "699",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "28380382" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-13945143" ],
+        "Author" : [ "" ],
+        "SUID" : 762,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "761",
+        "source" : "698",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610" ],
+        "mentha_score" : 0.236,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "EBI-11044755", "1465513" ],
+        "Author" : [ "" ],
+        "SUID" : 761,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "760",
+        "source" : "697",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26496610" ],
+        "mentha_score" : 0.236,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1465514", "EBI-11015886" ],
+        "Author" : [ "" ],
+        "SUID" : 760,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "759",
+        "source" : "696",
+        "target" : "721",
+        "shared_interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Interaction_Type" : [ "" ],
+        "Source_Database" : "",
+        "Publication_ID" : [ "26186194" ],
+        "mentha_score" : 0.126,
+        "Detection_Method" : [ "" ],
+        "shared_name" : "",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "",
+        "interaction" : "uniprotkb,irefindex,ddbj/embl/genbank,refseq,chebi",
+        "Detection_Method_ID" : [ "1193830" ],
+        "Author" : [ "" ],
+        "SUID" : 759,
+        "Primary_Interaction_Type" : "",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

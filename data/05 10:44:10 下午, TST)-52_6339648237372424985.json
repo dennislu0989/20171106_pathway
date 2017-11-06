@@ -1,0 +1,905 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "BioGrid (2017/11/05 10:44:10 下午, TST)",
+    "__Annotations" : [ "" ],
+    "name" : "BioGrid (2017/11/05 10:44:10 下午, TST)",
+    "SUID" : 52,
+    "source_original" : "BioGrid",
+    "created_by" : "PSICQUIC Web Service",
+    "selected" : false
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "10075",
+        "biogrid" : [ "115385" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "UREB1", "MULE", "10075", "HSPC272", "HECTH9", "LASU1", "HUWE1", "ARF-BP1", "Ib772", "URE-B1", "RP3-339A18.4" ],
+        "name" : "10075",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 84,
+        "Human_Readable_Label" : "UREB1",
+        "selected" : false,
+        "ncbi_gene_id" : "10075"
+      },
+      "position" : {
+        "x" : 85.30175316852072,
+        "y" : 92.65326943604842
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "10797",
+        "biogrid" : [ "116011" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "NMDMC", "MTHFD2", "10797" ],
+        "name" : "10797",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 83,
+        "Human_Readable_Label" : "NMDMC",
+        "selected" : false,
+        "ncbi_gene_id" : "10797"
+      },
+      "position" : {
+        "x" : -53.27447974163553,
+        "y" : 17.5929075738658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "427272",
+        "biogrid" : [ "686612" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "427272", "SYK", "RCJMB04_19o18" ],
+        "name" : "427272",
+        "Taxonomy_ID" : "9031",
+        "SUID" : 82,
+        "Human_Readable_Label" : "SYK",
+        "selected" : false,
+        "ncbi_gene_id" : "427272"
+      },
+      "position" : {
+        "x" : 204.98736107867697,
+        "y" : -31.239934299303144
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "426126",
+        "biogrid" : [ "685886" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "MTHFD2", "426126", "RCJMB04_12b8" ],
+        "name" : "426126",
+        "Taxonomy_ID" : "9031",
+        "SUID" : 81,
+        "Human_Readable_Label" : "MTHFD2",
+        "selected" : false,
+        "ncbi_gene_id" : "426126"
+      },
+      "position" : {
+        "x" : 208.0048133186672,
+        "y" : -138.96210226805314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "156110",
+        "biogrid" : [ "1205545" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "HIV1gp9", "nef", "156110" ],
+        "name" : "156110",
+        "Taxonomy_ID" : "11676",
+        "SUID" : 80,
+        "Human_Readable_Label" : "HIV1gp9",
+        "selected" : false,
+        "ncbi_gene_id" : "156110"
+      },
+      "position" : {
+        "x" : -166.51190649944803,
+        "y" : 123.53636422364607
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "10039",
+        "biogrid" : [ "115351" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "PARP3", "IRT1", "ARTD3", "ADPRTL2", "ADPRT3", "ADPRTL3", "10039", "PADPRT-3" ],
+        "name" : "10039",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 79,
+        "Human_Readable_Label" : "PARP3",
+        "selected" : false,
+        "ncbi_gene_id" : "10039"
+      },
+      "position" : {
+        "x" : -36.41486060101053,
+        "y" : -138.96210226805314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "5719",
+        "biogrid" : [ "111691" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "p40.5", "5719", "S11", "PSMD13", "HSPC027", "Rpn9" ],
+        "name" : "5719",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 78,
+        "Human_Readable_Label" : "p40.5",
+        "selected" : false,
+        "ncbi_gene_id" : "5719"
+      },
+      "position" : {
+        "x" : 104.98736107867697,
+        "y" : 10.61186852662459
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "30",
+        "biogrid" : [ "106548" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "PTHIO", "ACAA1", "ACAA", "30", "THIO" ],
+        "name" : "30",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 77,
+        "Human_Readable_Label" : "PTHIO",
+        "selected" : false,
+        "ncbi_gene_id" : "30"
+      },
+      "position" : {
+        "x" : -166.76538550335428,
+        "y" : -94.88595328123674
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "55577",
+        "biogrid" : [ "120728" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "HSA242910", "NAGK", "GNK", "55577" ],
+        "name" : "55577",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 76,
+        "Human_Readable_Label" : "HSA242910",
+        "selected" : false,
+        "ncbi_gene_id" : "55577"
+      },
+      "position" : {
+        "x" : 44.93719018023947,
+        "y" : 38.59936490266219
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "79665",
+        "biogrid" : [ "122790" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DHX40", "ARG147", "79665", "PAD", "DDX40" ],
+        "name" : "79665",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 75,
+        "Human_Readable_Label" : "DHX40",
+        "selected" : false,
+        "ncbi_gene_id" : "79665"
+      },
+      "position" : {
+        "x" : -139.71466528851053,
+        "y" : 63.67940011231795
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "79571",
+        "biogrid" : [ "122718" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "GCC88", "GCC1P", "GCC1", "79571" ],
+        "name" : "79571",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 74,
+        "Human_Readable_Label" : "GCC88",
+        "selected" : false,
+        "ncbi_gene_id" : "79571"
+      },
+      "position" : {
+        "x" : -16.04266821819803,
+        "y" : -76.35209402830705
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "54505",
+        "biogrid" : [ "120001" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DDX29", "54505", "DHX29" ],
+        "name" : "54505",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 73,
+        "Human_Readable_Label" : "DDX29",
+        "selected" : false,
+        "ncbi_gene_id" : "54505"
+      },
+      "position" : {
+        "x" : 67.87206566852072,
+        "y" : -45.30511221678361
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "8452",
+        "biogrid" : [ "114030" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "8452", "PHA2E", "CUL3", "CUL-3" ],
+        "name" : "8452",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 72,
+        "Human_Readable_Label" : "PHA2E",
+        "selected" : false,
+        "ncbi_gene_id" : "8452"
+      },
+      "position" : {
+        "x" : -106.02490698772928,
+        "y" : 159.20835366456404
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "440574",
+        "biogrid" : [ "136699" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "MINOS1", "C1orf151", "440574", "RP5-1056L3.2", "MIO10" ],
+        "name" : "440574",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 71,
+        "Human_Readable_Label" : "MINOS1",
+        "selected" : false,
+        "ncbi_gene_id" : "440574"
+      },
+      "position" : {
+        "x" : -201.90247046429178,
+        "y" : -18.75477728636369
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "shared_name" : "4772",
+        "biogrid" : [ "110845" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "NF-ATC", "NFATc", "4772", "NFATC1", "NFAT2" ],
+        "name" : "4772",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 70,
+        "Human_Readable_Label" : "NF-ATC",
+        "selected" : false,
+        "ncbi_gene_id" : "4772"
+      },
+      "position" : {
+        "x" : -23.22473608929178,
+        "y" : 173.25013222901717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "shared_name" : "4773",
+        "biogrid" : [ "110846" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "RP5-1009H6.1", "4773", "NFATC2", "NFAT1", "NFATP" ],
+        "name" : "4773",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 69,
+        "Human_Readable_Label" : "RP5-1009H6.1",
+        "selected" : false,
+        "ncbi_gene_id" : "4773"
+      },
+      "position" : {
+        "x" : -56.86383521038553,
+        "y" : 116.4685236474742
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "shared_name" : "16905",
+        "biogrid" : [ "201176" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "Lmna", "Dhe", "16905" ],
+        "name" : "16905",
+        "Taxonomy_ID" : "10090",
+        "SUID" : 68,
+        "Human_Readable_Label" : "Lmna",
+        "selected" : false,
+        "ncbi_gene_id" : "16905"
+      },
+      "position" : {
+        "x" : -203.42096411663553,
+        "y" : 50.36405816285506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "shared_name" : "18005",
+        "biogrid" : [ "201728" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "18005", "AA617254", "C77054", "Nek2" ],
+        "name" : "18005",
+        "Taxonomy_ID" : "10090",
+        "SUID" : 67,
+        "Human_Readable_Label" : "AA617254",
+        "selected" : false,
+        "ncbi_gene_id" : "18005"
+      },
+      "position" : {
+        "x" : -99.05914771038553,
+        "y" : -113.69778952391252
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "shared_name" : "1192",
+        "biogrid" : [ "107604" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DADB-110M10.1", "NCC27", "CLIC1", "1192", "G6" ],
+        "name" : "1192",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 66,
+        "Human_Readable_Label" : "DADB-110M10.1",
+        "selected" : false,
+        "ncbi_gene_id" : "1192"
+      },
+      "position" : {
+        "x" : -137.16888892132303,
+        "y" : -37.46611532957658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "shared_name" : "1994",
+        "biogrid" : [ "108309" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "1994", "HUR", "Hua", "MelG", "ELAV1", "ELAVL1" ],
+        "name" : "1994",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 65,
+        "Human_Readable_Label" : "HUR",
+        "selected" : false,
+        "ncbi_gene_id" : "1994"
+      },
+      "position" : {
+        "x" : 27.88567650836447,
+        "y" : 127.9094187280406
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "shared_name" : "47895",
+        "biogrid" : [ "71042" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "DmelCG18466", "151767_at", "Dmel_CG18466", "Nmdmc", "47895", "Mthfd2", "CG18466", "DNMDMC" ],
+        "name" : "47895",
+        "Taxonomy_ID" : "7227",
+        "SUID" : 64,
+        "Human_Readable_Label" : "DmelCG18466",
+        "selected" : false,
+        "ncbi_gene_id" : "47895"
+      },
+      "position" : {
+        "x" : 308.0048133186672,
+        "y" : -31.239934299303144
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "shared_name" : "39844",
+        "biogrid" : [ "65147" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "CG16725", "Smn", "DmelCG16725", "DmSMN", "39844", "l", "dSMN", "Dmel_CG16725" ],
+        "name" : "39844",
+        "Taxonomy_ID" : "7227",
+        "SUID" : 63,
+        "Human_Readable_Label" : "CG16725",
+        "selected" : false,
+        "ncbi_gene_id" : "39844"
+      },
+      "position" : {
+        "x" : 311.0222655586574,
+        "y" : -138.96210226805314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "shared_name" : "5728",
+        "biogrid" : [ "111700" ],
+        "Taxonomy_Name" : "",
+        "entrez_gene_locuslink" : [ "5728", "DEC", "MHAM", "TEP1", "PTEN", "10q23del", "BZS", "PTEN1", "GLM2", "CWS1", "MMAC1" ],
+        "name" : "5728",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 62,
+        "Human_Readable_Label" : "DEC",
+        "selected" : false,
+        "ncbi_gene_id" : "5728"
+      },
+      "position" : {
+        "x" : 43.38561547320822,
+        "y" : -108.04564413817033
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "105",
+        "source" : "84",
+        "target" : "83",
+        "shared_interaction" : "1029912",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "25147182" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "10075 (1029912) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "10075 (1029912) 10797",
+        "interaction" : "1029912",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Thompson JW (2014)" ],
+        "SUID" : 105,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "83",
+        "target" : "76",
+        "shared_interaction" : "1045711",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "25416956" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "10797 (1045711) 55577",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "10797 (1045711) 55577",
+        "interaction" : "1045711",
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "Author" : [ "Rolland T (2014)" ],
+        "SUID" : 104,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "83",
+        "target" : "66",
+        "Confidence_Score_score" : 0.081921667,
+        "shared_interaction" : "1260081",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26344197" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "10797 (1260081) 1192",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "10797 (1260081) 1192",
+        "interaction" : "1260081",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "Wan C (2015)" ],
+        "SUID" : 103,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "83",
+        "target" : "76",
+        "shared_interaction" : "1438315",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21516116" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "10797 (1438315) 55577",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "10797 (1438315) 55577",
+        "interaction" : "1438315",
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "Author" : [ "Yu H (2011)" ],
+        "SUID" : 102,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "82",
+        "target" : "81",
+        "shared_interaction" : "737111",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21472591" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "427272 (737111) 426126",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "427272 (737111) 426126",
+        "interaction" : "737111",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Galan JA (2011)" ],
+        "SUID" : 101,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "80",
+        "target" : "83",
+        "shared_interaction" : "838424",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22190034" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "156110 (838424) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "156110 (838424) 10797",
+        "interaction" : "838424",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Jaeger S (2012)" ],
+        "SUID" : 100,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "79",
+        "target" : "83",
+        "Confidence_Score_score" : 0.374,
+        "shared_interaction" : "242306",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "10039 (242306) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "10039 (242306) 10797",
+        "interaction" : "242306",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Ewing RM (2007)" ],
+        "SUID" : 99,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "78",
+        "target" : "83",
+        "Confidence_Score_score" : 0.356,
+        "shared_interaction" : "242554",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "5719 (242554) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "5719 (242554) 10797",
+        "interaction" : "242554",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Ewing RM (2007)" ],
+        "SUID" : 98,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "77",
+        "target" : "83",
+        "Confidence_Score_score" : 0.808203475,
+        "shared_interaction" : "1193830",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26186194" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "30 (1193830) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "30 (1193830) 10797",
+        "interaction" : "1193830",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Huttlin EL (2015)" ],
+        "SUID" : 97,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "75",
+        "target" : "83",
+        "Confidence_Score_score" : 0.816,
+        "shared_interaction" : "750464",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "79665 (750464) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "79665 (750464) 10797",
+        "interaction" : "750464",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "Havugimana PC (2012)" ],
+        "SUID" : 96,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "source" : "74",
+        "target" : "83",
+        "Confidence_Score_score" : 0.79,
+        "shared_interaction" : "751883",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "79571 (751883) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "79571 (751883) 10797",
+        "interaction" : "751883",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "Havugimana PC (2012)" ],
+        "SUID" : 95,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "source" : "73",
+        "target" : "83",
+        "Confidence_Score_score" : 0.752,
+        "shared_interaction" : "754374",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "54505 (754374) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "54505 (754374) 10797",
+        "interaction" : "754374",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "Havugimana PC (2012)" ],
+        "SUID" : 94,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "72",
+        "target" : "83",
+        "shared_interaction" : "686883",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21145461" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "8452 (686883) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "8452 (686883) 10797",
+        "interaction" : "686883",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Bennett EJ (2010)" ],
+        "SUID" : 93,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "source" : "71",
+        "target" : "83",
+        "shared_interaction" : "591920",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22114354" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "440574 (591920) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "440574 (591920) 10797",
+        "interaction" : "591920",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Alkhaja AK (2011)" ],
+        "SUID" : 92,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "70",
+        "target" : "83",
+        "Confidence_Score_score" : 5.4,
+        "shared_interaction" : "1533682",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "27637333" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "4772 (1533682) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "4772 (1533682) 10797",
+        "interaction" : "1533682",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Gabriel CH (2016)" ],
+        "SUID" : 91,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "source" : "69",
+        "target" : "83",
+        "Confidence_Score_score" : 5.8,
+        "shared_interaction" : "1533780",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "27637333" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "4773 (1533780) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "4773 (1533780) 10797",
+        "interaction" : "1533780",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Gabriel CH (2016)" ],
+        "SUID" : 90,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "68",
+        "target" : "83",
+        "shared_interaction" : "1465513",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "16905 (1465513) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "16905 (1465513) 10797",
+        "interaction" : "1465513",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Hein MY (2015)" ],
+        "SUID" : 89,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "source" : "67",
+        "target" : "83",
+        "shared_interaction" : "1465514",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "18005 (1465514) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "18005 (1465514) 10797",
+        "interaction" : "1465514",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Hein MY (2015)" ],
+        "SUID" : 88,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "source" : "65",
+        "target" : "83",
+        "shared_interaction" : "663538",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "19322201" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "1994 (663538) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "1994 (663538) 10797",
+        "interaction" : "663538",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Abdelmohsen K (2009)" ],
+        "SUID" : 87,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "source" : "64",
+        "target" : "63",
+        "shared_interaction" : "650816",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22036573" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "47895 (650816) 39844",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "47895 (650816) 39844",
+        "interaction" : "650816",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "Guruharsha KG (2011)" ],
+        "SUID" : 86,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "source" : "62",
+        "target" : "83",
+        "shared_interaction" : "1420142",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26561776" ],
+        "Detection_Method" : [ "pull down" ],
+        "shared_name" : "5728 (1420142) 10797",
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "5728 (1420142) 10797",
+        "interaction" : "1420142",
+        "Detection_Method_ID" : [ "MI:0096" ],
+        "Author" : [ "Verrastro I (2015)" ],
+        "SUID" : 85,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

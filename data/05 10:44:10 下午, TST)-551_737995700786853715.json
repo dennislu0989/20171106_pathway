@@ -1,0 +1,1194 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "mentha (2017/11/05 10:44:10 下午, TST)",
+    "__Annotations" : [ "" ],
+    "name" : "mentha (2017/11/05 10:44:10 下午, TST)",
+    "SUID" : 551,
+    "source_original" : "mentha",
+    "created_by" : "PSICQUIC Web Service",
+    "selected" : false
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "585",
+        "shared_name" : "P13995",
+        "uniprotkb_accession" : "P13995",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "P13995",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 585,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "MTHFD2", "P13995" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -20.621850967407227,
+        "y" : 8.10745727539063
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "584",
+        "shared_name" : "P23508",
+        "uniprotkb_accession" : "P23508",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "P23508",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 584,
+        "Human_Readable_Label" : "MCC",
+        "uniprot" : [ "P23508", "MCC" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 107.94111442565918,
+        "y" : 114.12924682617188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "583",
+        "shared_name" : "O00299",
+        "uniprotkb_accession" : "O00299",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "O00299",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 583,
+        "Human_Readable_Label" : "CLIC1",
+        "uniprot" : [ "O00299", "CLIC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 136.36170768737793,
+        "y" : -34.78505981445312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "582",
+        "shared_name" : "Q13618",
+        "uniprotkb_accession" : "Q13618",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q13618",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 582,
+        "Human_Readable_Label" : "CUL3",
+        "uniprot" : [ "CUL3", "Q13618" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 139.1579418182373,
+        "y" : 45.99106323242188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "581",
+        "shared_name" : "Q15717",
+        "uniprotkb_accession" : "Q15717",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q15717",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 581,
+        "Human_Readable_Label" : "ELAVL1",
+        "uniprot" : [ "Q15717", "ELAVL1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 55.25610160827637,
+        "y" : 83.80905639648438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "580",
+        "shared_name" : "P60484",
+        "uniprotkb_accession" : "P60484",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "P60484",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 580,
+        "Human_Readable_Label" : "PTEN",
+        "uniprot" : [ "P60484", "PTEN" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 46.03921318054199,
+        "y" : 162.30576049804688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "579",
+        "shared_name" : "F1N9Y5",
+        "uniprotkb_accession" : "F1N9Y5",
+        "Taxonomy_Name" : "Gallus gallus",
+        "name" : "F1N9Y5",
+        "Taxonomy_ID" : "9031",
+        "SUID" : 579,
+        "Human_Readable_Label" : "SYK",
+        "uniprot" : [ "SYK", "F1N9Y5" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 239.1579418182373,
+        "y" : -47.87002075195312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "578",
+        "shared_name" : "Q5ZKA5",
+        "uniprotkb_accession" : "Q5ZKA5",
+        "Taxonomy_Name" : "Gallus gallus",
+        "name" : "Q5ZKA5",
+        "Taxonomy_ID" : "9031",
+        "SUID" : 578,
+        "Human_Readable_Label" : "MTHFD2",
+        "uniprot" : [ "Q5ZKA5", "MTHFD2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 242.17539405822754,
+        "y" : -155.59218872070312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "577",
+        "shared_name" : "Q96CN9",
+        "uniprotkb_accession" : "Q96CN9",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q96CN9",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 577,
+        "Human_Readable_Label" : "GCC1",
+        "uniprot" : [ "Q96CN9", "GCC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -165.0685977935791,
+        "y" : 86.08847534179688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "576",
+        "shared_name" : "Q7Z478",
+        "uniprotkb_accession" : "Q7Z478",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q7Z478",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 576,
+        "Human_Readable_Label" : "DHX29",
+        "uniprot" : [ "Q7Z478", "DHX29" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -117.71166801452637,
+        "y" : -125.99471557617187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "575",
+        "shared_name" : "Q9Y6F1",
+        "uniprotkb_accession" : "Q9Y6F1",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q9Y6F1",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 575,
+        "Human_Readable_Label" : "PARP3",
+        "uniprot" : [ "PARP3", "Q9Y6F1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 84.10479545593262,
+        "y" : 13.29861938476563
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "574",
+        "shared_name" : "Q5S007",
+        "uniprotkb_accession" : "Q5S007",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q5S007",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 574,
+        "Human_Readable_Label" : "LRRK2",
+        "uniprot" : [ "Q5S007", "LRRK2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -48.932939529418945,
+        "y" : 172.67499267578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "573",
+        "shared_name" : "Q5TGZ0",
+        "uniprotkb_accession" : "Q5TGZ0",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q5TGZ0",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 573,
+        "Human_Readable_Label" : "MINOS1",
+        "uniprot" : [ "MINOS1", "Q5TGZ0" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -118.48424339294434,
+        "y" : 140.50784790039063
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "572",
+        "shared_name" : "Q9UNM6",
+        "uniprotkb_accession" : "Q9UNM6",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q9UNM6",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 572,
+        "Human_Readable_Label" : "PSMD13",
+        "uniprot" : [ "PSMD13", "Q9UNM6" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1.789499282836914,
+        "y" : -96.99508178710937
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "571",
+        "shared_name" : "Q9UJ70",
+        "uniprotkb_accession" : "Q9UJ70",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q9UJ70",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 571,
+        "Human_Readable_Label" : "NAGK",
+        "uniprot" : [ "NAGK", "Q9UJ70" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 59.18026542663574,
+        "y" : -54.93575561523437
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "570",
+        "shared_name" : "O95644",
+        "uniprotkb_accession" : "O95644",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "O95644",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 570,
+        "Human_Readable_Label" : "NFATC1",
+        "uniprot" : [ "O95644", "NFATC1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4.662752151489258,
+        "y" : 126.16757690429688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "569",
+        "shared_name" : "P04601",
+        "uniprotkb_accession" : "P04601",
+        "Taxonomy_Name" : "Human immunodeficiency virus 1",
+        "name" : "P04601",
+        "Taxonomy_ID" : "11676",
+        "SUID" : 569,
+        "Human_Readable_Label" : "NEF",
+        "uniprot" : [ "P04601", "NEF" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -120.71230697631836,
+        "y" : 41.43887817382813
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "568",
+        "shared_name" : "Q8IWL3",
+        "uniprotkb_accession" : "Q8IWL3",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q8IWL3",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 568,
+        "Human_Readable_Label" : "HSCB",
+        "uniprot" : [ "HSCB", "Q8IWL3" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -184.46495246887207,
+        "y" : 9.13473999023438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "567",
+        "shared_name" : "Q8IX18",
+        "uniprotkb_accession" : "Q8IX18",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q8IX18",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 567,
+        "Human_Readable_Label" : "DHX40",
+        "uniprot" : [ "DHX40", "Q8IX18" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -166.64007759094238,
+        "y" : -69.28670776367187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "566",
+        "shared_name" : "P48678",
+        "uniprotkb_accession" : "P48678",
+        "Taxonomy_Name" : "Mus musculus",
+        "name" : "P48678",
+        "Taxonomy_ID" : "10090",
+        "SUID" : 566,
+        "Human_Readable_Label" : "LMNA",
+        "uniprot" : [ "LMNA", "P48678" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -71.10329818725586,
+        "y" : -84.54989135742187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "565",
+        "shared_name" : "O75360",
+        "uniprotkb_accession" : "O75360",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "O75360",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 565,
+        "Human_Readable_Label" : "PROP1",
+        "uniprot" : [ "PROP1", "O75360" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -118.70222473144531,
+        "y" : -29.47353637695312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "564",
+        "shared_name" : "O35942",
+        "uniprotkb_accession" : "O35942",
+        "Taxonomy_Name" : "Mus musculus",
+        "name" : "O35942",
+        "Taxonomy_ID" : "10090",
+        "SUID" : 564,
+        "Human_Readable_Label" : "NEK2",
+        "uniprot" : [ "O35942", "NEK2" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -71.00639915466309,
+        "y" : 98.37411987304688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "563",
+        "shared_name" : "Q7Z6Z7",
+        "uniprotkb_accession" : "Q7Z6Z7",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "Q7Z6Z7",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 563,
+        "Human_Readable_Label" : "HUWE1",
+        "uniprot" : [ "Q7Z6Z7", "HUWE1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 101.75202751159668,
+        "y" : -102.01845825195312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "562",
+        "shared_name" : "P09110",
+        "uniprotkb_accession" : "P09110",
+        "Taxonomy_Name" : "Homo sapiens",
+        "name" : "P09110",
+        "Taxonomy_ID" : "9606",
+        "SUID" : 562,
+        "Human_Readable_Label" : "ACAA1",
+        "uniprot" : [ "P09110", "ACAA1" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 41.04183769226074,
+        "y" : -144.93422973632812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "561",
+        "shared_name" : "Q77M19",
+        "uniprotkb_accession" : "Q77M19",
+        "Taxonomy_Name" : "Measles virus strain Schwarz",
+        "name" : "Q77M19",
+        "Taxonomy_ID" : "132487",
+        "SUID" : 561,
+        "Human_Readable_Label" : "P",
+        "uniprot" : [ "P", "Q77M19" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -42.26753044128418,
+        "y" : -155.59218872070312
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "618",
+        "source" : "585",
+        "target" : "584",
+        "shared_interaction" : "EBI-1072213",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "anti bait coimmunoprecipitation" ],
+        "shared_name" : "P13995 (EBI-1072213) P23508",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (EBI-1072213) P23508",
+        "interaction" : "EBI-1072213",
+        "Detection_Method_ID" : [ "MI:0006" ],
+        "Author" : [ "-" ],
+        "SUID" : 618,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "617",
+        "source" : "585",
+        "target" : "583",
+        "shared_interaction" : "1260081",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26344197" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "P13995 (1260081) O00299",
+        "Confidence_Score_mentha_score" : 0.081,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (1260081) O00299",
+        "interaction" : "1260081",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "-" ],
+        "SUID" : 617,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "616",
+        "source" : "585",
+        "target" : "575",
+        "shared_interaction" : "EBI-1073726",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "anti bait coimmunoprecipitation" ],
+        "shared_name" : "P13995 (EBI-1073726) Q9Y6F1",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (EBI-1073726) Q9Y6F1",
+        "interaction" : "EBI-1073726",
+        "Detection_Method_ID" : [ "MI:0006" ],
+        "Author" : [ "-" ],
+        "SUID" : 616,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "615",
+        "source" : "585",
+        "target" : "572",
+        "shared_interaction" : "EBI-1069498",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "anti bait coimmunoprecipitation" ],
+        "shared_name" : "P13995 (EBI-1069498) Q9UNM6",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (EBI-1069498) Q9UNM6",
+        "interaction" : "EBI-1069498",
+        "Detection_Method_ID" : [ "MI:0006" ],
+        "Author" : [ "-" ],
+        "SUID" : 615,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "614",
+        "source" : "585",
+        "target" : "571",
+        "shared_interaction" : "1438315",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21516116" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "P13995 (1438315) Q9UJ70",
+        "Confidence_Score_mentha_score" : 0.583,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (1438315) Q9UJ70",
+        "interaction" : "1438315",
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "Author" : [ "-" ],
+        "SUID" : 614,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "613",
+        "source" : "585",
+        "target" : "571",
+        "shared_interaction" : "1045711",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "25416956" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "P13995 (1045711) Q9UJ70",
+        "Confidence_Score_mentha_score" : 0.583,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (1045711) Q9UJ70",
+        "interaction" : "1045711",
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "Author" : [ "-" ],
+        "SUID" : 613,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "612",
+        "source" : "585",
+        "target" : "571",
+        "shared_interaction" : "EBI-14510803",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "unassigned1304" ],
+        "Detection_Method" : [ "two hybrid array" ],
+        "shared_name" : "P13995 (EBI-14510803) Q9UJ70",
+        "Confidence_Score_mentha_score" : 0.583,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (EBI-14510803) Q9UJ70",
+        "interaction" : "EBI-14510803",
+        "Detection_Method_ID" : [ "MI:0397" ],
+        "Author" : [ "-" ],
+        "SUID" : 612,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "611",
+        "source" : "585",
+        "target" : "571",
+        "shared_interaction" : "EBI-14510788",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "unassigned1304" ],
+        "Detection_Method" : [ "two hybrid prey pooling approach" ],
+        "shared_name" : "P13995 (EBI-14510788) Q9UJ70",
+        "Confidence_Score_mentha_score" : 0.583,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P13995 (EBI-14510788) Q9UJ70",
+        "interaction" : "EBI-14510788",
+        "Detection_Method_ID" : [ "MI:1112" ],
+        "Author" : [ "-" ],
+        "SUID" : 611,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "610",
+        "source" : "582",
+        "target" : "585",
+        "shared_interaction" : "686883",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21145461" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q13618 (686883) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q13618 (686883) P13995",
+        "interaction" : "686883",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 610,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "609",
+        "source" : "581",
+        "target" : "585",
+        "shared_interaction" : "663538",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "19322201" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q15717 (663538) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q15717 (663538) P13995",
+        "interaction" : "663538",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 609,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "608",
+        "source" : "580",
+        "target" : "585",
+        "shared_interaction" : "1420142",
+        "Interaction_Type" : [ "direct interaction" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26561776" ],
+        "Detection_Method" : [ "pull down" ],
+        "shared_name" : "P60484 (1420142) P13995",
+        "Confidence_Score_mentha_score" : 0.183,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P60484 (1420142) P13995",
+        "interaction" : "1420142",
+        "Detection_Method_ID" : [ "MI:0096" ],
+        "Author" : [ "-" ],
+        "SUID" : 608,
+        "Primary_Interaction_Type" : "direct interaction",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "607",
+        "source" : "579",
+        "target" : "578",
+        "shared_interaction" : "737111",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21472591" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "F1N9Y5 (737111) Q5ZKA5",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "F1N9Y5 (737111) Q5ZKA5",
+        "interaction" : "737111",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 607,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "606",
+        "source" : "577",
+        "target" : "585",
+        "shared_interaction" : "751883",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "Q96CN9 (751883) P13995",
+        "Confidence_Score_mentha_score" : 0.081,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q96CN9 (751883) P13995",
+        "interaction" : "751883",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "-" ],
+        "SUID" : 606,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "605",
+        "source" : "576",
+        "target" : "585",
+        "shared_interaction" : "754374",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "Q7Z478 (754374) P13995",
+        "Confidence_Score_mentha_score" : 0.081,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q7Z478 (754374) P13995",
+        "interaction" : "754374",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "-" ],
+        "SUID" : 605,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "604",
+        "source" : "575",
+        "target" : "585",
+        "shared_interaction" : "242306",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q9Y6F1 (242306) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q9Y6F1 (242306) P13995",
+        "interaction" : "242306",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 604,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "603",
+        "source" : "574",
+        "target" : "585",
+        "shared_interaction" : "EBI-9515510",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "24725412" ],
+        "Detection_Method" : [ "tandem affinity purification" ],
+        "shared_name" : "Q5S007 (EBI-9515510) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q5S007 (EBI-9515510) P13995",
+        "interaction" : "EBI-9515510",
+        "Detection_Method_ID" : [ "MI:0676" ],
+        "Author" : [ "-" ],
+        "SUID" : 603,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "602",
+        "source" : "573",
+        "target" : "585",
+        "shared_interaction" : "591920",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22114354" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q5TGZ0 (591920) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q5TGZ0 (591920) P13995",
+        "interaction" : "591920",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 602,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "601",
+        "source" : "572",
+        "target" : "585",
+        "shared_interaction" : "242554",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "17353931" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q9UNM6 (242554) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q9UNM6 (242554) P13995",
+        "interaction" : "242554",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 601,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "600",
+        "source" : "571",
+        "target" : "585",
+        "shared_interaction" : "MINT-8168303",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21516116" ],
+        "Detection_Method" : [ "two hybrid" ],
+        "shared_name" : "Q9UJ70 (MINT-8168303) P13995",
+        "Confidence_Score_mentha_score" : 0.583,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q9UJ70 (MINT-8168303) P13995",
+        "interaction" : "MINT-8168303",
+        "Detection_Method_ID" : [ "MI:0018" ],
+        "Author" : [ "-" ],
+        "SUID" : 600,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "599",
+        "source" : "570",
+        "target" : "585",
+        "shared_interaction" : "1533682",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "27637333" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "O95644 (1533682) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "O95644 (1533682) P13995",
+        "interaction" : "1533682",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 599,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "598",
+        "source" : "569",
+        "target" : "585",
+        "shared_interaction" : "EBI-6174744",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22190034" ],
+        "Detection_Method" : [ "anti tag coimmunoprecipitation" ],
+        "shared_name" : "P04601 (EBI-6174744) P13995",
+        "Confidence_Score_mentha_score" : 0.21,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P04601 (EBI-6174744) P13995",
+        "interaction" : "EBI-6174744",
+        "Detection_Method_ID" : [ "MI:0007" ],
+        "Author" : [ "-" ],
+        "SUID" : 598,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "597",
+        "source" : "569",
+        "target" : "585",
+        "shared_interaction" : "838424",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22190034" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "P04601 (838424) P13995",
+        "Confidence_Score_mentha_score" : 0.21,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P04601 (838424) P13995",
+        "interaction" : "838424",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 597,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "596",
+        "source" : "568",
+        "target" : "585",
+        "shared_interaction" : "EBI-13945143",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "28380382" ],
+        "Detection_Method" : [ "anti tag coimmunoprecipitation" ],
+        "shared_name" : "Q8IWL3 (EBI-13945143) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q8IWL3 (EBI-13945143) P13995",
+        "interaction" : "EBI-13945143",
+        "Detection_Method_ID" : [ "MI:0007" ],
+        "Author" : [ "-" ],
+        "SUID" : 596,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "595",
+        "source" : "567",
+        "target" : "585",
+        "shared_interaction" : "750464",
+        "Interaction_Type" : [ "colocalization" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "22939629" ],
+        "Detection_Method" : [ "biochemical" ],
+        "shared_name" : "Q8IX18 (750464) P13995",
+        "Confidence_Score_mentha_score" : 0.081,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q8IX18 (750464) P13995",
+        "interaction" : "750464",
+        "Detection_Method_ID" : [ "MI:0401" ],
+        "Author" : [ "-" ],
+        "SUID" : 595,
+        "Primary_Interaction_Type" : "colocalization",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "594",
+        "source" : "566",
+        "target" : "585",
+        "shared_interaction" : "EBI-11044755",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "anti tag coimmunoprecipitation" ],
+        "shared_name" : "P48678 (EBI-11044755) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P48678 (EBI-11044755) P13995",
+        "interaction" : "EBI-11044755",
+        "Detection_Method_ID" : [ "MI:0007" ],
+        "Author" : [ "-" ],
+        "SUID" : 594,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "593",
+        "source" : "566",
+        "target" : "585",
+        "shared_interaction" : "1465513",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "P48678 (1465513) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P48678 (1465513) P13995",
+        "interaction" : "1465513",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 593,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "592",
+        "source" : "565",
+        "target" : "585",
+        "shared_interaction" : "EBI-14118466",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "unassigned1304" ],
+        "Detection_Method" : [ "two hybrid array" ],
+        "shared_name" : "O75360 (EBI-14118466) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "O75360 (EBI-14118466) P13995",
+        "interaction" : "EBI-14118466",
+        "Detection_Method_ID" : [ "MI:0397" ],
+        "Author" : [ "-" ],
+        "SUID" : 592,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "591",
+        "source" : "565",
+        "target" : "585",
+        "shared_interaction" : "EBI-14118453",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "unassigned1304" ],
+        "Detection_Method" : [ "two hybrid prey pooling approach" ],
+        "shared_name" : "O75360 (EBI-14118453) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "O75360 (EBI-14118453) P13995",
+        "interaction" : "EBI-14118453",
+        "Detection_Method_ID" : [ "MI:1112" ],
+        "Author" : [ "-" ],
+        "SUID" : 591,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "590",
+        "source" : "564",
+        "target" : "585",
+        "shared_interaction" : "EBI-11015886",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "anti tag coimmunoprecipitation" ],
+        "shared_name" : "O35942 (EBI-11015886) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "O35942 (EBI-11015886) P13995",
+        "interaction" : "EBI-11015886",
+        "Detection_Method_ID" : [ "MI:0007" ],
+        "Author" : [ "-" ],
+        "SUID" : 590,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "589",
+        "source" : "564",
+        "target" : "585",
+        "shared_interaction" : "1465514",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26496610" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "O35942 (1465514) P13995",
+        "Confidence_Score_mentha_score" : 0.236,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "O35942 (1465514) P13995",
+        "interaction" : "1465514",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 589,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "588",
+        "source" : "563",
+        "target" : "585",
+        "shared_interaction" : "1029912",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "25147182" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "Q7Z6Z7 (1029912) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q7Z6Z7 (1029912) P13995",
+        "interaction" : "1029912",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 588,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "587",
+        "source" : "562",
+        "target" : "585",
+        "shared_interaction" : "1193830",
+        "Interaction_Type" : [ "physical association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "26186194" ],
+        "Detection_Method" : [ "affinity chromatography technology" ],
+        "shared_name" : "P09110 (1193830) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "P09110 (1193830) P13995",
+        "interaction" : "1193830",
+        "Detection_Method_ID" : [ "MI:0004" ],
+        "Author" : [ "-" ],
+        "SUID" : 587,
+        "Primary_Interaction_Type" : "physical association",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "586",
+        "source" : "561",
+        "target" : "585",
+        "shared_interaction" : "EBI-6268389",
+        "Interaction_Type" : [ "association" ],
+        "Source_Database" : "psi-mi",
+        "Publication_ID" : [ "21911578" ],
+        "Detection_Method" : [ "pull down" ],
+        "shared_name" : "Q77M19 (EBI-6268389) P13995",
+        "Confidence_Score_mentha_score" : 0.126,
+        "Publication_DB" : [ "pubmed" ],
+        "name" : "Q77M19 (EBI-6268389) P13995",
+        "interaction" : "EBI-6268389",
+        "Detection_Method_ID" : [ "MI:0096" ],
+        "Author" : [ "-" ],
+        "SUID" : 586,
+        "Primary_Interaction_Type" : "association",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
